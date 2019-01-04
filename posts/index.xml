@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Happy PhD</title>
+    <link>http://ahappyphd.net/posts/</link>
+    <description>Recent content in Posts on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 15:47:47 +0100</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is doing a Ph.D. bad... for your mental wellbeing?</title>
+      <link>http://ahappyphd.net/posts/is-phd-bad-mental-wellbeing/</link>
+      <pubDate>Thu, 03 Jan 2019 15:47:47 +0100</pubDate>
+      
+      <guid>http://ahappyphd.net/posts/is-phd-bad-mental-wellbeing/</guid>
+      <description>&lt;p&gt;There is a growing body of research that indicates that doing a doctoral dissertation can be taxing on the mental health of PhD students, with depression, anxiety, or burnout all on the table. Is this problem real and, if so, how bad is it? In this post, I review several recent studies, some of which also offer insights about potential risk factors. This also kickstarts the whole idea of this blog, as a way to increase awareness about these difficulties, and offer practical tips and tricks to survive such a difficult period.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

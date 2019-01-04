@@ -6,9 +6,28 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 15:41:55 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://ahappyphd.net/tags/about/</link>
+      <pubDate>Thu, 03 Jan 2019 15:41:55 +0100</pubDate>
+      
+      <guid>http://ahappyphd.net/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wellbeing</title>
+      <link>http://ahappyphd.net/tags/wellbeing/</link>
+      <pubDate>Thu, 03 Jan 2019 15:47:47 +0100</pubDate>
+      
+      <guid>http://ahappyphd.net/tags/wellbeing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
