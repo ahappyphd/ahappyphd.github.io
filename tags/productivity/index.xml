@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on A Happy PhD</title>
+    <link>http://ahappyphd.net/tags/productivity/</link>
+    <description>Recent content in Productivity on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 17:11:17 +0100</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.net/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keeping organized: a brief review of productivity systems</title>
+      <link>http://ahappyphd.net/posts/review-productivity-systems/</link>
+      <pubDate>Thu, 03 Jan 2019 17:11:17 +0100</pubDate>
+      
+      <guid>http://ahappyphd.net/posts/review-productivity-systems/</guid>
+      <description>&lt;p&gt;As a Ph.D. student you have plenty to keep track of: course sessions and deadlines, reading papers, writing papers, submitting papers, designing studies, gathering data, analyzing or reporting it&amp;hellip; As an advisor, you may remember with nostalgia the blissful time when you were a PhD and had only one research line. How can anyone stay on top of this insurmountable pile of deadlines and to-dos? It turns out, many people have faced this problem before, and have came up with systematic ways of solving it. Over the years, I have tried quite a few of these systems and variations (and I still experiment!). In this post, I will give you the gist of some of them, and the pros and cons that I have found by using them in real (academic) life. But, as they often say, &amp;ldquo;your mileage may vary&amp;rdquo;!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Productivity tip: the Pomodoro technique</title>
+      <link>http://ahappyphd.net/posts/pomodoro-technique/</link>
+      <pubDate>Thu, 03 Jan 2019 17:08:53 +0100</pubDate>
+      
+      <guid>http://ahappyphd.net/posts/pomodoro-technique/</guid>
+      <description>&lt;p&gt;This is one of the most basic, flexible and effective productivity techniques, which I&amp;rsquo;ve been using for many years.  I know many PhD students and academics that swear by it, but I am still surprised by others who do not know about it. In this post I come back to its origins, the &amp;ldquo;right&amp;rdquo; way to do it, and how I have combined it with other routines to keep me on track. Essential in this age of smartphones, social media and other constant distractions!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
