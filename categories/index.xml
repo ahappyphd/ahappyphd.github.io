@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Happy PhD</title>
-    <link>http://ahappyphd.net/categories/</link>
+    <link>http://ahappyphd.org/categories/</link>
     <description>Recent content in Categories on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jan 2019 17:11:44 +0100</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>http://ahappyphd.net/categories/blog/</link>
+      <link>http://ahappyphd.org/categories/blog/</link>
       <pubDate>Thu, 03 Jan 2019 17:11:44 +0100</pubDate>
       
-      <guid>http://ahappyphd.net/categories/blog/</guid>
+      <guid>http://ahappyphd.org/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pages</title>
-      <link>http://ahappyphd.net/categories/pages/</link>
+      <link>http://ahappyphd.org/categories/pages/</link>
       <pubDate>Thu, 03 Jan 2019 15:41:55 +0100</pubDate>
       
-      <guid>http://ahappyphd.net/categories/pages/</guid>
+      <guid>http://ahappyphd.org/categories/pages/</guid>
       <description></description>
     </item>
     
