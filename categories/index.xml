@@ -6,7 +6,7 @@
     <description>Recent content in Categories on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 17:11:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 17:11:31 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Blog</title>
       <link>http://ahappyphd.org/categories/blog/</link>
-      <pubDate>Thu, 03 Jan 2019 17:11:44 +0100</pubDate>
+      <pubDate>Thu, 03 Jan 2019 17:11:31 +0100</pubDate>
       
       <guid>http://ahappyphd.org/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Coming Soon</title>
+      <link>http://ahappyphd.org/categories/coming-soon/</link>
+      <pubDate>Sat, 09 Feb 2019 23:29:38 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/categories/coming-soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pages</title>
       <link>http://ahappyphd.org/categories/pages/</link>
-      <pubDate>Thu, 03 Jan 2019 15:41:55 +0100</pubDate>
+      <pubDate>Fri, 04 Jan 2019 09:59:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/categories/pages/</guid>
       <description></description>

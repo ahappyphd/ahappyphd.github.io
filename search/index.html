@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>A Happy PhD </title>
+    <title>A Happy PhD  | Search</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -29,21 +29,20 @@
     
 
     
-      <link href="http://ahappyphd.org/tags/research/index.xml" rel="alternate" type="application/rss+xml" title="A Happy PhD" />
-      <link href="http://ahappyphd.org/tags/research/index.xml" rel="feed" type="application/rss+xml" title="A Happy PhD" />
+      <link href="http://ahappyphd.org/search/index.xml" rel="alternate" type="application/rss+xml" title="A Happy PhD" />
+      <link href="http://ahappyphd.org/search/index.xml" rel="feed" type="application/rss+xml" title="A Happy PhD" />
     
 
-    <meta property="og:title" content="Research" />
+    <meta property="og:title" content="Search" />
 <meta property="og:description" content="A blog about doctoral productivity, supervision and wellbeing." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://ahappyphd.org/tags/research/" />
-<meta property="og:updated_time" content="2019-01-03T17:09:56&#43;01:00"/>
+<meta property="og:url" content="http://ahappyphd.org/search/" />
 
-<meta itemprop="name" content="Research">
+<meta itemprop="name" content="Search">
 <meta itemprop="description" content="A blog about doctoral productivity, supervision and wellbeing.">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Research"/>
+<meta name="twitter:title" content="Search"/>
 <meta name="twitter:description" content="A blog about doctoral productivity, supervision and wellbeing."/>
 
       
@@ -164,7 +163,7 @@ if (!doNotTrack) {
 
       <div class="tc-l pv2 pv3-l ph2 ph3-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          Research
+          Search
         </h1>
         
       </div>
@@ -174,46 +173,25 @@ if (!doNotTrack) {
 
     <main class="pb7" role="main">
       
-  
-  <div class="mw8 center">
-    <section class="flex-ns flex-wrap justify-around mt5">
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/choosing-conference-journal/" class="link black dim">
-        How to choose a conference/journal for your papers
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Sending papers to the wrong scientific venue is one of the most common causes for rejection I see every day. I choose my audience as one of the first steps in my process for writing papers. But, how do you do that exactly? Based on impact? Quality? Who&rsquo;s the editor or chair? In this post, I go over steps and criteria that I use to find out where to send a particular piece of research work. Never go very far in the writing without a clear idea about this!</p>
+<section class="flex-ns flex-wrap justify-around mt5">
+  <div class="my-auto" >
+    <form action="http://ahappyphd.org/search">
+      <input id="search-query" name="s"/>
+    </form>
+    <div id="search-results">
+     <h3>Matching pages</h3>
     </div>
   </div>
-</div>
+</section>
 
-        </div>
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/how-i-write-papers/" class="link black dim">
-        How I write papers
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>There is plenty of advice out there on how to write academic publications, from general stylistic tips to very field-specific guides. Yet, I&rsquo;ve found most of that advice tends to be abstract, never giving you a step-by-step account of the process. In this post, I share the process to I find myself using after 50+ academic publications. This will give you an idea of where to start writing your paper (especially if you have never written one), and will show you that all polished papers have humble (even crappy) origins. Kill perfectionism, and the dreaded &ldquo;academic writer&rsquo;s block&rdquo; will fade away.</p>
+<script id="search-result-template" type="text/x-js-template">
+    <div class="blah w-100" id="summary-${key}">
+      <h4 class="f3 fw1 athelas mt0 lh-title"><a href="${link}"  class="color-inherit dim link">${title}</a></h4>
+      <p>${snippet} ...</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
     </div>
-  </div>
-</div>
-
-        </div>
-      
-    </section>
-  </div>
+</script>
 
     </main>
     <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
@@ -258,7 +236,10 @@ if (!doNotTrack) {
 
 
     
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="http://ahappyphd.org/js/search.js"></script>
 
-    
   </body>
 </html>

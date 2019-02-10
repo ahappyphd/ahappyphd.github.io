@@ -6,10 +6,20 @@
     <description>Recent content in Pages on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 15:41:55 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 09:59:00 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/categories/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ahappyphd.org/contact/</link>
+      <pubDate>Fri, 04 Jan 2019 09:59:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/contact/</guid>
+      <description>Please leave your comments, suggestions (for posts or about the blog), etc. in the form below, or email me at ahappyphd.blog@gmail.com. You can also let me know there if you want to be notified when I officially launch the blog.
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
     
     <item>
       <title>About</title>
