@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrams on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/diagrams/</link>
+    <description>Recent content in Diagrams on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 12:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/diagrams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD tool: The CQOCE diagram</title>
+      <link>http://ahappyphd.org/posts/cqoce-diagram/</link>
+      <pubDate>Fri, 15 Feb 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/cqoce-diagram/</guid>
+      <description>&lt;p&gt;By far, this is the tool (as in, &amp;ldquo;thinking tool&amp;rdquo;) which I recommend most often to PhD students. This diagram summarizes your main research questions, thesis contributions and evidence of their usefulness. While painful to make, this brutal synthesis exercise is also a powerful communication tool. In this post, I explain how it works, its origins, and how making 18+ versions of it helped me through my PhD. Copy the provided template and use it in your PhD supervision meetings or even in the PhD defense!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
