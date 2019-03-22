@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I write papers</title>
+      <link>http://ahappyphd.org/posts/how-i-write-papers/</link>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/how-i-write-papers/</guid>
+      <description>&lt;p&gt;There is plenty of advice out there on how to write academic publications, from general stylistic tips to field-specific guides. Yet, I&amp;rsquo;ve found most of that advice tends to be abstract, or focused on the final product, never giving you a step-by-step account of the process. In this post, I share the writing process I find myself using after 70+ academic publications. This will give you an idea of where to start writing your paper (especially if you have never written one), and it will show you that all polished papers have humble (even crappy) origins. Kill perfectionism, and the dreaded &amp;ldquo;academic writer&amp;rsquo;s block&amp;rdquo; will eventually disappear.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Baking papers, or why scientific writing is so difficult</title>

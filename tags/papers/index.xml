@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/research/</link>
-    <description>Recent content in Research on A Happy PhD</description>
+    <title>Papers on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/papers/</link>
+    <description>Recent content in Papers on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2019 09:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/how-i-write-papers/</guid>
       <description>&lt;p&gt;There is plenty of advice out there on how to write academic publications, from general stylistic tips to field-specific guides. Yet, I&amp;rsquo;ve found most of that advice tends to be abstract, or focused on the final product, never giving you a step-by-step account of the process. In this post, I share the writing process I find myself using after 70+ academic publications. This will give you an idea of where to start writing your paper (especially if you have never written one), and it will show you that all polished papers have humble (even crappy) origins. Kill perfectionism, and the dreaded &amp;ldquo;academic writer&amp;rsquo;s block&amp;rdquo; will eventually disappear.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Baking papers, or why scientific writing is so difficult</title>
-      <link>http://ahappyphd.org/posts/why-writing-is-hard/</link>
-      <pubDate>Fri, 15 Mar 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/why-writing-is-hard/</guid>
-      <description>&lt;p&gt;Writing (papers or the dissertation itself) is one of the activities that many doctoral students hate the most. Why is this act of communication so difficult for us? As a prelude to my post on &amp;ldquo;how I write papers&amp;rdquo;, I expose some misconceptions we seem to have about scientific writing and what are good ways to learn it.&lt;/p&gt;</description>
     </item>
     
   </channel>
