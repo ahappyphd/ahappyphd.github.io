@@ -6,10 +6,19 @@
     <description>Recent content in Papers on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Mar 2019 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Ten Commandments of scientific writing</title>
+      <link>http://ahappyphd.org/posts/10-commandments-writing/</link>
+      <pubDate>Sun, 07 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/10-commandments-writing/</guid>
+      <description>&lt;p&gt;The writing of a paper (or the dissertation itself) is often a long process, along which many decisions are made: should I send my ideas for feedback now, or generate more polished text? should I think of the target journal now or decide once I have the finished draft? et cetera. To finish this mini-series of posts on writing (&lt;a href=&#34;http://ahappyphd.org/posts/why-writing-is-hard/&#34;&gt;why writing papers is hard&lt;/a&gt;, &lt;a href=&#34;http://ahappyphd.org/posts/how-i-write-papers/&#34;&gt;how I write papers&lt;/a&gt;, and &lt;a href=&#34;http://ahappyphd.org/posts/how-i-write-papers2/&#34;&gt;the second part of that writing process&lt;/a&gt;), I review here the main principles and lessons that I have learned after more than 10 years of writing scientific papers. I hope they help you navigate these decisions if you are in doubt, or if you have to step out of the usual writing process due to unexpected events.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>How I write papers (Part 2)</title>
