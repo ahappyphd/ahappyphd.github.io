@@ -6,10 +6,19 @@
     <description>Recent content in Blog on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2019 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ask A Happy Ph.D. - Student edition</title>
+      <link>http://ahappyphd.org/posts/ask-happy-phd-student/</link>
+      <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/ask-happy-phd-student/</guid>
+      <description>&lt;p&gt;This time I would like to turn the mike over to you, PhD students, and let &lt;em&gt;you&lt;/em&gt; tell &lt;em&gt;me&lt;/em&gt; what you want to hear about in this blog (I will do a separate one for supervisors and supervision later on). What would you like to know about doing a Ph.D., or being a (happier, more productive) PhD student?&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Choosing not to drop out: a view from self-determination theory</title>
