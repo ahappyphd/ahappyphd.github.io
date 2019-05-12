@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curiosity on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/curiosity/</link>
+    <description>Recent content in Curiosity on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2019 01:01:58 +0300</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On cultivating (and reining) curiosity</title>
+      <link>http://ahappyphd.org/posts/cultivate-curiosity/</link>
+      <pubDate>Mon, 13 May 2019 01:01:58 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/cultivate-curiosity/</guid>
+      <description>&lt;p&gt;One would think that research, as the pursuit of new knowledge, is mostly based upon curiosity. However, the daily grind of research life can erode that sense of excitement students have about delving into the unknown. In this post, I explore the role of curiosity in doctoral studies, and look at a few practices and tricks to keep the flame of curiosity alight (without burning the village!).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
