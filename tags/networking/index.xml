@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/conference/</link>
-    <description>Recent content in Conference on A Happy PhD</description>
+    <title>Networking on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/networking/</link>
+    <description>Recent content in Networking on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jun 2019 18:03:07 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/going-to-conferences/</guid>
       <description>&lt;p&gt;Going to an international conference, to present your own work or to better understand a scientific community, is usually an intense (even stressful) experience. As a doctoral student, probably even more so. In this post I share a selection of advice and tricks to make your next conference more pleasant (and useful in the long-term). Go forth, and enjoy a few days of &amp;ldquo;geeking out&amp;rdquo; with fellow researchers!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PhD tool: Pitching your research with the NABC model</title>
-      <link>http://ahappyphd.org/posts/pitching-nabc/</link>
-      <pubDate>Mon, 20 May 2019 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/pitching-nabc/</guid>
-      <description>As a Ph.D. student, you very often have to present what your research is about. Maybe you want to get quick feedback from a visiting professor. Or you need to give a talk at a conference or doctoral consortium. In this post, I go over a technique adapted from a large US research lab I once visited. I will walk you through its simple four- (or five-)part structure, including real examples from my own work.</description>
     </item>
     
   </channel>
