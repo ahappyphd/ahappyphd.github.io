@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/monday-mantra-2/</loc>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/going-to-conferences/</loc>
     <lastmod>2019-06-17T18:03:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -137,7 +144,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2019-06-17T18:03:07+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -172,14 +179,21 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2019-06-17T18:03:07+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2019-06-17T18:03:07+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/communication/</loc>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -256,7 +270,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/mantra/</loc>
-    <lastmod>2019-05-26T21:28:44+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -298,14 +312,14 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2019-06-17T18:03:07+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/tags/presenting/</loc>
-    <lastmod>2019-06-17T18:03:07+02:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -395,7 +409,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/writing/</loc>
-    <lastmod>2019-04-07T12:00:00+01:00</lastmod>
+    <lastmod>2019-06-30T19:35:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
