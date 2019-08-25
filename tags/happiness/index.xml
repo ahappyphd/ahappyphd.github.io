@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Happiness on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/happiness/</link>
+    <description>Recent content in Happiness on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 16:43:50 +0300</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/happiness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happiness in the lab, part 1: What is happiness?</title>
+      <link>http://ahappyphd.org/posts/happiness-in-the-lab-1/</link>
+      <pubDate>Sun, 25 Aug 2019 16:43:50 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/happiness-in-the-lab-1/</guid>
+      <description>&lt;p&gt;Being a Ph.D. student and being happy sometimes feel like two incompatible states. However, we all know someone that seems to enjoy greatly their work, even their &lt;em&gt;dissertation&lt;/em&gt; work (heck, I have to confess I&amp;rsquo;ve been one such annoying person myself sometimes). What things make people love their work? Apparently, an entire branch of positive psychology has been delving into this question for decades. This post is the first of a series that adapts insights and practices for greater &amp;ldquo;happiness at work&amp;rdquo; that I got from a massive open online course (MOOC), to the work life of doctoral students (and academics more generally).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
