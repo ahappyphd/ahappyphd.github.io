@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Job Crafting on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/job-crafting/</link>
-    <description>Recent content in Job Crafting on A Happy PhD</description>
+    <title>Engagement on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/engagement/</link>
+    <description>Recent content in Engagement on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2019 19:10:43 +0300</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/job-crafting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/engagement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/happiness-in-the-lab-3/</guid>
       <description>&lt;p&gt;Have you ever found yourself avoiding your supervisor, or the thesis meetings, or just not wanting to open the manuscript file you have to finish? Then you might have some problems engaging with your research work. In this third post of the series on finding more happiness in your research, I look at how engagement at work is defined, how to assess your own levels of engagement, and some research-backed practices to help you engage better with your work and find your &amp;ldquo;flow&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Happiness in the lab, part 2: Purpose</title>
-      <link>http://ahappyphd.org/posts/happiness-in-the-lab-2/</link>
-      <pubDate>Sat, 31 Aug 2019 09:45:01 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/happiness-in-the-lab-2/</guid>
-      <description>&lt;p&gt;Continuing with last week&amp;rsquo;s post on &amp;ldquo;happiness at work&amp;rdquo;, in this post I explore the first of the four pillars for a happier workplace: the sense that your work has a &lt;em&gt;purpose&lt;/em&gt;, that it is personally meaningful to you. Read on to learn to self-assess your sense of purpose at work, and get some ideas on how to make your research work feel more meaningful.&lt;/p&gt;</description>
     </item>
     
   </channel>
