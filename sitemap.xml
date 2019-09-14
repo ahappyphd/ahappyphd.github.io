@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/happiness-in-the-lab-4/</loc>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/happiness-in-the-lab-3/</loc>
     <lastmod>2019-09-07T19:10:43+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -165,7 +172,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -200,14 +207,14 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -290,8 +297,15 @@
   </url>
   
   <url>
+    <loc>http://ahappyphd.org/tags/grit/</loc>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/tags/happiness/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -313,6 +327,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/mantra/</loc>
     <lastmod>2019-06-30T19:35:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/mindfulness/</loc>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -361,14 +382,14 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/positive-psychology/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -409,6 +430,13 @@
   </url>
   
   <url>
+    <loc>http://ahappyphd.org/tags/resilience/</loc>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -417,6 +445,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/self-determination/</loc>
     <lastmod>2019-04-23T12:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/self-talk/</loc>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -479,7 +514,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/wellbeing/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
+    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
