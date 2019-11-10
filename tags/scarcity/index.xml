@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Review on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/review/</link>
-    <description>Recent content in Review on A Happy PhD</description>
+    <title>Scarcity on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/scarcity/</link>
+    <description>Recent content in Scarcity on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2019 17:41:51 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/scarcity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/calendar-trick/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;a previous post&lt;/a&gt;, I proposed the use of your favorite calendar app to store all your TO-DOs and avoid over-committing. I&amp;rsquo;ve been trying this productivity trick on myself for the past few months. In this new kind of blog post, I report on the results of this self-experiment, and the effect it has had on my own productivity and wellbeing. I also provide some practical tips and tricks, in case you want to try it out for yourself. &lt;a href=&#34;https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read&#34;&gt;TL;DR&lt;/a&gt;: It works&amp;hellip; if you are a bit careful.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Productivity tip: How I do weekly reviews</title>
-      <link>http://ahappyphd.org/posts/weekly-review/</link>
-      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/weekly-review/</guid>
-      <description>&lt;p&gt;Despite the emphasis I have made so far in developing productive and healthy everyday routines (from &lt;a href=&#34;http://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;to-do lists&lt;/a&gt; to &lt;a href=&#34;http://ahappyphd.org/posts/pomodoro-technique/&#34;&gt;pomodoros&lt;/a&gt;), not everything about productivity happens at this tactical, day-to-day level. In this short post, I guide you through what I think is the centerpiece of my own personal productivity system: the weekly review.&lt;/p&gt;</description>
     </item>
     
   </channel>

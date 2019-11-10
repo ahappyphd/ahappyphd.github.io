@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/calendar-trick/</loc>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/weekly-review/</loc>
     <lastmod>2019-10-19T12:54:50+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -207,7 +214,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -242,14 +249,21 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/calendar/</loc>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -472,6 +486,13 @@
   </url>
   
   <url>
+    <loc>http://ahappyphd.org/tags/planning/</loc>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/tags/positive-emotions/</loc>
     <lastmod>2019-09-07T19:10:43+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -487,7 +508,7 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -508,7 +529,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/productivity/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -550,7 +571,14 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/review/</loc>
-    <lastmod>2019-10-19T12:54:50+03:00</lastmod>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/scarcity/</loc>
+    <lastmod>2019-11-10T17:41:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
