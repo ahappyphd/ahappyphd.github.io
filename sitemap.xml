@@ -3,6 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/categories/blog/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/burnout/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/categories/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/posts/progress-loop/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/journaling/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/milestones/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/okrs/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/posts/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/productivity/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/progress/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/self-tracking/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/wellbeing/</loc>
+    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/tags/2019/</loc>
     <lastmod>2020-01-10T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,28 +115,7 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/tags/blog/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/categories/</loc>
     <lastmod>2020-01-10T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -53,20 +130,6 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/ahappyphd-2019/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/</loc>
     <lastmod>2020-01-10T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -102,13 +165,6 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/monday-mantra-4/</loc>
-    <lastmod>2019-11-16T10:49:04+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/productivity/</loc>
     <lastmod>2019-11-16T10:49:04+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -242,13 +298,6 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/series/</loc>
-    <lastmod>2019-10-04T16:59:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/wellbeing/</loc>
     <lastmod>2019-10-04T16:59:14+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -396,13 +445,6 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/positive-emotions/</loc>
-    <lastmod>2019-09-07T19:10:43+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/self-tracking/</loc>
     <lastmod>2019-09-07T19:10:43+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

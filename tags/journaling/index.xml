@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Self-tracking on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/self-tracking/</link>
-    <description>Recent content in Self-tracking on A Happy PhD</description>
+    <title>Journaling on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/journaling/</link>
+    <description>Recent content in Journaling on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jan 2020 11:30:48 +0100</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/self-tracking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/journaling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/progress-loop/</guid>
       <description>&lt;p&gt;Have you ever felt like you are &amp;ldquo;stuck&amp;rdquo; in your PhD, making no progress, or going in circles? If so, you are in good company &amp;ndash; most PhD students report such experience at one time or another during their doctoral process. The normalcy of this experience, however, should not make us dismiss it as unimportant. In this post I review research that speaks to the importance of this sense of progress (or the lack of it) to our engagement with work and the eventual completion (or dropping out) of the PhD. The post also reviews several everyday practices to cultivate your own sense of progress.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Happiness in the lab, part 3: Engagement</title>
-      <link>http://ahappyphd.org/posts/happiness-in-the-lab-3/</link>
-      <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/happiness-in-the-lab-3/</guid>
-      <description>&lt;p&gt;Have you ever found yourself avoiding your supervisor, or the thesis meetings, or just not wanting to open the manuscript file you have to finish? Then you might have some problems engaging with your research work. In this third post of the series on finding more happiness in your research, I look at how engagement at work is defined, how to assess your own levels of engagement, and some research-backed practices to help you engage better with your work and find your &amp;ldquo;flow&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
   </channel>
