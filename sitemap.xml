@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/on-sleep/</loc>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/advising-progress/</loc>
     <lastmod>2020-02-05T09:46:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -249,7 +256,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -304,15 +311,15 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/tags/blog/</loc>
-    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
+    <loc>http://ahappyphd.org/categories/blog/</loc>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <loc>http://ahappyphd.org/tags/blog/</loc>
+    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -333,7 +340,7 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -479,6 +486,13 @@
   </url>
   
   <url>
+    <loc>http://ahappyphd.org/tags/health/</loc>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/tags/impostor-syndrome/</loc>
     <lastmod>2019-04-23T12:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -488,6 +502,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/incivility/</loc>
     <lastmod>2019-09-28T19:12:54+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/insomnia/</loc>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -613,7 +634,7 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -634,7 +655,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/productivity/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -717,7 +738,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/self-tracking/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -725,6 +746,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/series/</loc>
     <lastmod>2019-10-04T16:59:14+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/sleep/</loc>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -787,7 +815,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/wellbeing/</loc>
-    <lastmod>2020-01-24T11:30:48+01:00</lastmod>
+    <lastmod>2020-02-23T20:34:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
