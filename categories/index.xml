@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Happy PhD</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Categories on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2020 09:46:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 13:12:31 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Blog</title>
       <link>http://ahappyphd.org/categories/blog/</link>
-      <pubDate>Wed, 05 Feb 2020 09:46:51 +0100</pubDate>
+      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
       
       <guid>http://ahappyphd.org/categories/blog/</guid>
       <description></description>

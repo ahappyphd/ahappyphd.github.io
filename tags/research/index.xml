@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on A Happy PhD</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Research on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 16:59:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 13:12:31 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I revise my journal papers</title>
+      <link>http://ahappyphd.org/posts/revising/</link>
+      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/revising/</guid>
+      <description>&lt;p&gt;Along with &lt;a href=&#34;http://ahappyphd.org/posts/writing-papers-series/&#34;&gt;writing your first journal paper&lt;/a&gt;, doing a substantial revision to your manuscript upon receiving the reviewers’ comments is one often-cited painful moment of any doctoral process. This complex act of scientific communication involves balancing diplomacy with integrity, creativity and systematicity. In this post, I go over the concrete (and, sometimes, counter-intuitive) steps I follow to revise my journal papers upon receiving peer-review critiques, as well as some basic principles to increase your chances of success and avoid unnecessary suffering.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Writing research papers series</title>
@@ -71,7 +80,7 @@
       <pubDate>Fri, 22 Mar 2019 09:00:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/posts/how-i-write-papers/</guid>
-      <description>&lt;p&gt;There is plenty of advice out there on how to write academic publications, from general stylistic tips to field-specific guides. Yet, I&#39;ve found most of that advice tends to be abstract, or focused on the final product, never giving you a step-by-step account of the process. In this post, I share the writing process I find myself using after 70+ academic publications. This will give you an idea of where to start writing your paper (especially if you have never written one), and it will show you that all polished papers have humble (even crappy) origins. Kill perfectionism, and the dreaded &amp;ldquo;academic writer&#39;s block&amp;rdquo; will eventually disappear.&lt;/p&gt;</description>
+      <description>&lt;p&gt;There is plenty of advice out there on how to write academic publications, from general stylistic tips to field-specific guides. Yet, I&amp;rsquo;ve found most of that advice tends to be abstract, or focused on the final product, never giving you a step-by-step account of the process. In this post, I share the writing process I find myself using after 70+ academic publications. This will give you an idea of where to start writing your paper (especially if you have never written one), and it will show you that all polished papers have humble (even crappy) origins. Kill perfectionism, and the dreaded &amp;ldquo;academic writer&amp;rsquo;s block&amp;rdquo; will eventually disappear.&lt;/p&gt;</description>
     </item>
     
     <item>
