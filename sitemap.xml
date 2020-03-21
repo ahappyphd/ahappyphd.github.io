@@ -318,15 +318,25 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ahappyphd.org/categories/blog/</loc>
     <lastmod>2020-03-15T13:12:31+02:00</lastmod>
+=======
+    <loc>http://ahappyphd.org/tags/blog/</loc>
+    <lastmod>2020-01-10T09:00:00+01:00</lastmod>
+>>>>>>> 33f7f12c6020c16ef32a0fb60546a2236c34994c
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ahappyphd.org/tags/blog/</loc>
     <lastmod>2020-01-10T09:00:00+01:00</lastmod>
+=======
+    <loc>http://ahappyphd.org/categories/blog/</loc>
+    <lastmod>2020-03-15T13:12:31+02:00</lastmod>
+>>>>>>> 33f7f12c6020c16ef32a0fb60546a2236c34994c
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
