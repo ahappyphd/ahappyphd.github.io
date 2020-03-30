@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/quickie-mindfulness/</loc>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/monday-mantra-5/</loc>
     <lastmod>2020-03-21T11:50:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -270,7 +277,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -333,7 +340,7 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -354,7 +361,7 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -403,7 +410,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/covid-19/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -585,7 +592,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/mindfulness/</loc>
-    <lastmod>2019-09-14T19:58:29+03:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -662,7 +669,7 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -705,6 +712,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/purpose/</loc>
     <lastmod>2019-10-04T16:59:14+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/quickie/</loc>
+    <lastmod>2020-03-30T14:11:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
