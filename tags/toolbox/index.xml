@@ -6,10 +6,19 @@
     <description>Recent content in Toolbox on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 11:28:31 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/toolbox/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Navigating authorship: a condensed crash course in setting authors for your paper</title>
+      <link>http://ahappyphd.org/posts/authorship/</link>
+      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/authorship/</guid>
+      <description>&lt;p&gt;Defining who are the authors of your scientific papers, while apparently trivial, is sometimes a surprisingly difficult decision (especially, the first times we do it). As novice researchers, we may operate under conjectures or assumptions about how scientific authorship works, which may not necessarily be true. In this post, I go over several factors that often weigh in into that decision, and I provide a couple of tips and resources about how I would go about taking that decision, ideally.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PhD tool: Pitching your research with the NABC model</title>
