@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authorship on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/authorship/</link>
+    <description>Recent content in Authorship on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 11:28:31 +0300</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/authorship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Navigating authorship: a condensed crash course in setting authors for your paper</title>
+      <link>http://ahappyphd.org/posts/authorship/</link>
+      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/authorship/</guid>
+      <description>&lt;p&gt;Defining who are the authors of your scientific papers, while apparently trivial, is sometimes a surprisingly difficult decision (especially, the first times we do it). As novice researchers, we may operate under conjectures or assumptions about how scientific authorship works, which may not necessarily be true. In this post, I go over several factors that often weigh in into that decision, and I provide a couple of tips and resources about how I would go about taking that decision, ideally.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
