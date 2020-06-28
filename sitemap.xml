@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ahappyphd.org/posts/monday-mantra-6/</loc>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/posts/authorship/</loc>
     <lastmod>2020-05-17T11:28:31+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -298,7 +305,7 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -313,6 +320,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/about/</loc>
     <lastmod>2019-01-03T15:41:55+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/advice/</loc>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -375,7 +389,7 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -396,7 +410,7 @@
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -451,8 +465,15 @@
   </url>
   
   <url>
+    <loc>http://ahappyphd.org/tags/craftsmanship/</loc>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ahappyphd.org/tags/creativity/</loc>
-    <lastmod>2019-11-16T10:49:04+02:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -495,6 +516,13 @@
   <url>
     <loc>http://ahappyphd.org/tags/engagement/</loc>
     <lastmod>2019-10-04T16:59:14+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/enjoyment/</loc>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -613,7 +641,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/mantra/</loc>
-    <lastmod>2020-03-21T11:50:55+02:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -732,7 +760,7 @@
   
   <url>
     <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -802,7 +830,7 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/research/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
+    <lastmod>2020-06-28T22:33:36+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
