@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on A Happy PhD</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Series on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 16:59:14 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 18:59:31 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making important decisions about the doctorate (I)</title>
+      <link>http://ahappyphd.org/posts/decision-process-1/</link>
+      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/decision-process-1/</guid>
+      <description>&lt;p&gt;In the PhD (and beyond), we sometimes face a difficult situation, and we have to take a hard decision: do I leave my PhD? do I take an unrelated job to earn more money while I try to finish the PhD? do I seek a new supervisor that better supports me? do I accept the change of direction that my supervisor is suggesting? In this two-part post series, I will &lt;em&gt;not&lt;/em&gt; give the answer to those hard questions, but rather provide a decision &lt;em&gt;process&lt;/em&gt; that can help us find the option that is right &lt;em&gt;for us&lt;/em&gt;, in our particular circumstances.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Happiness in the lab series</title>
