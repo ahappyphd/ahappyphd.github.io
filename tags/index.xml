@@ -6,7 +6,7 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 18:59:31 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 11:59:28 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Career</title>
       <link>http://ahappyphd.org/tags/career/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/career/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Decision</title>
       <link>http://ahappyphd.org/tags/decision/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/decision/</guid>
       <description></description>
@@ -32,16 +32,25 @@
     <item>
       <title>Dilemma</title>
       <link>http://ahappyphd.org/tags/dilemma/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/dilemma/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Intuition</title>
+      <link>http://ahappyphd.org/tags/intuition/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/intuition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Life</title>
       <link>http://ahappyphd.org/tags/life/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/life/</guid>
       <description></description>
@@ -50,25 +59,16 @@
     <item>
       <title>Research</title>
       <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Series</title>
-      <link>http://ahappyphd.org/tags/series/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Values</title>
       <link>http://ahappyphd.org/tags/values/</link>
-      <pubDate>Sat, 12 Sep 2020 18:59:31 +0300</pubDate>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/values/</guid>
       <description></description>
@@ -638,6 +638,15 @@
       <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>http://ahappyphd.org/tags/series/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/series/</guid>
       <description></description>
     </item>
     
