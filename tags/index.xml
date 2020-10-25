@@ -6,10 +6,46 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2020 23:26:49 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 17:24:44 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Happy PhD</title>
+      <link>http://ahappyphd.org/tags/a-happy-phd/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/a-happy-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://ahappyphd.org/tags/blog/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>http://ahappyphd.org/tags/meta/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://ahappyphd.org/tags/news/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Creativity</title>
@@ -512,33 +548,6 @@
       <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Happy PhD</title>
-      <link>http://ahappyphd.org/tags/a-happy-phd/</link>
-      <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/a-happy-phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>http://ahappyphd.org/tags/blog/</link>
-      <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta</title>
-      <link>http://ahappyphd.org/tags/meta/</link>
-      <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/meta/</guid>
       <description></description>
     </item>
     

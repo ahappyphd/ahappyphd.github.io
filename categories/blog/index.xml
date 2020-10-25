@@ -6,10 +6,19 @@
     <description>Recent content in Blog on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2020 23:26:49 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 17:24:44 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Latest News from A Happy PhD</title>
+      <link>http://ahappyphd.org/posts/news-october-2020/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/news-october-2020/</guid>
+      <description>&lt;p&gt;Just a quick update about what&amp;rsquo;s been going on lately at the &amp;lsquo;A Happy PhD&amp;rsquo; headquarters. Expect a change of pace in the next weeks: shorter, more regular posts, our new &amp;lsquo;Twitter Tuesdays&amp;rsquo;, and much more!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>More effective group decision-making meetings</title>
