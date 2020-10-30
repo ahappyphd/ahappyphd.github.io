@@ -6,10 +6,73 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 17:24:44 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 16:49:59 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feedback</title>
+      <link>http://ahappyphd.org/tags/feedback/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedforward</title>
+      <link>http://ahappyphd.org/tags/feedforward/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/feedforward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern</title>
+      <link>http://ahappyphd.org/tags/pattern/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickie</title>
+      <link>http://ahappyphd.org/tags/quickie/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/quickie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ahappyphd.org/tags/research/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>http://ahappyphd.org/tags/supervision/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://ahappyphd.org/tags/writing/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/writing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Happy PhD</title>
@@ -84,29 +147,11 @@
     </item>
     
     <item>
-      <title>Pattern</title>
-      <link>http://ahappyphd.org/tags/pattern/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Productivity</title>
       <link>http://ahappyphd.org/tags/productivity/</link>
       <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
@@ -291,15 +336,6 @@
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>http://ahappyphd.org/tags/writing/</link>
-      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>COVID-19</title>
       <link>http://ahappyphd.org/tags/covid-19/</link>
       <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
@@ -386,15 +422,6 @@
       <pubDate>Mon, 30 Mar 2020 14:11:06 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/mindfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quickie</title>
-      <link>http://ahappyphd.org/tags/quickie/</link>
-      <pubDate>Mon, 30 Mar 2020 14:11:06 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/quickie/</guid>
       <description></description>
     </item>
     
@@ -521,15 +548,6 @@
       <pubDate>Wed, 05 Feb 2020 09:46:51 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>http://ahappyphd.org/tags/supervision/</link>
-      <pubDate>Wed, 05 Feb 2020 09:46:51 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
@@ -854,15 +872,6 @@
       <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/ask-me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feedback</title>
-      <link>http://ahappyphd.org/tags/feedback/</link>
-      <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/feedback/</guid>
       <description></description>
     </item>
     
