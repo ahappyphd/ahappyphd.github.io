@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncertainty on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/uncertainty/</link>
+    <description>Recent content in Uncertainty on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2020 16:57:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing exercise: sitting with uncertainty</title>
+      <link>http://ahappyphd.org/posts/writing-uncertainty/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/writing-uncertainty/</guid>
+      <description>&lt;p&gt;Have you ever had this feeling, while writing, that your prose is leading nowhere? that right now it would be a great moment to defreeze the fridge? to check your phone, because someone may have texted? In this post, I offer a simple exercise to use next time these internal interruptions assail you during writing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
