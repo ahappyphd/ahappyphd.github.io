@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enjoyment on A Happy PhD</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Enjoyment on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 22:33:36 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 16:29:18 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/enjoyment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Micro-breaks and two Monday Mantras to supercharge them</title>
+      <link>http://ahappyphd.org/posts/micro-break-mantras/</link>
+      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/micro-break-mantras/</guid>
+      <description>When we are writing a research paper, we need to find long stretches of focused time to get that writing done. Yet, even if we find them, can we really sustain intense focus during two or more hours? Today&amp;rsquo;s post looks at a research-backed and often overlooked tool in our productivity toolbox: the micro-break. To top it up, I provide two &amp;ldquo;monday mantras&amp;rdquo; to make your micro-breaks even more effective.</description>
+    </item>
     
     <item>
       <title>A Monday Mantra duo: The best advice about research that an artist never gave me</title>
