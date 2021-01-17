@@ -4,34 +4,125 @@
   
   <url>
     <loc>http://ahappyphd.org/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/authors/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/breaks/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ahappyphd.org/categories/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/challenges/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/diagrams/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/fuel/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/habits/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/authors/luis-p.-prieto/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/map/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/milestones/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/posts/map-thesis/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/posts/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/progress/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/thesis/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/toolbox/</loc>
+    <lastmod>2021-01-16T18:32:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ahappyphd.org/tags/breaks/</loc>
     <lastmod>2020-12-11T16:29:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,13 +157,6 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/authors/luis-p.-prieto/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/tags/mantra/</loc>
     <lastmod>2020-12-11T16:29:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -94,13 +178,6 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/posts/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/tags/productivity/</loc>
     <lastmod>2020-12-11T16:29:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -109,13 +186,6 @@
   
   <url>
     <loc>http://ahappyphd.org/tags/purpose/</loc>
-    <lastmod>2020-12-11T16:29:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/</loc>
     <lastmod>2020-12-11T16:29:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -451,13 +521,6 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/tags/toolbox/</loc>
-    <lastmod>2020-05-17T11:28:31+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/posts/am-i-normal/</loc>
     <lastmod>2020-05-08T09:04:40+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -661,21 +724,7 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/tags/milestones/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/tags/okrs/</loc>
-    <lastmod>2020-02-05T09:46:51+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/progress/</loc>
     <lastmod>2020-02-05T09:46:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1172,21 +1221,7 @@
   </url>
   
   <url>
-    <loc>http://ahappyphd.org/tags/diagrams/</loc>
-    <lastmod>2019-02-15T12:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ahappyphd.org/posts/cqoce-diagram/</loc>
-    <lastmod>2019-02-15T12:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ahappyphd.org/tags/thesis/</loc>
     <lastmod>2019-02-15T12:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
