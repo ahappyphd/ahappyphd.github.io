@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on A Happy PhD</title>
@@ -6,7 +6,6 @@
     <description>Recent content in Authors on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 19:52:14 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,14 +13,14 @@
     <item>
       <title>Luis P. Prieto</title>
       <link>http://ahappyphd.org/authors/luis-p.-prieto/</link>
-      <pubDate>Fri, 19 Feb 2021 19:52:14 +0200</pubDate>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
       <guid>http://ahappyphd.org/authors/luis-p.-prieto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Paula Odriozola-Gonzalez</title>
+      <title>Paula Odriozola Gonzalez</title>
       <link>http://ahappyphd.org/authors/paula-odriozola-gonzalez/</link>
       <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
       
