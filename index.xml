@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Happy PhD</title>
@@ -6,10 +6,19 @@
     <description>Recent content on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 09:38:35 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 08:26:34 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Monday Mantra to face uncomfortable emotions (#2 productivity challenge sneak peek)</title>
+      <link>http://ahappyphd.org/posts/mantra-emotions/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/mantra-emotions/</guid>
+      <description>In a previous post, I mentioned that uncomfortable emotions (like guilt, anxiety or indecision) are one of the most common obstacles to productivity that our PhD students report. In preparation for a longer series of posts on &amp;ldquo;emotional first aid for the PhD&amp;rdquo;, I have found a short mental exercise that has helped me face those difficult emotions lately. Here it is, in the form of a card-based &amp;ldquo;Monday Mantra&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Defusing task conflict in the PhD</title>

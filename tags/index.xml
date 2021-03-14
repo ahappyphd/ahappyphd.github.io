@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Happy PhD</title>
@@ -6,161 +6,71 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 08:26:34 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2019</title>
-      <link>http://ahappyphd.org/tags/2019/</link>
-      <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
+      <title>Mantra</title>
+      <link>http://ahappyphd.org/tags/mantra/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/2019/</guid>
+      <guid>http://ahappyphd.org/tags/mantra/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Happy Phd</title>
-      <link>http://ahappyphd.org/tags/a-happy-phd/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      <title>Mental Health</title>
+      <link>http://ahappyphd.org/tags/mental-health/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/a-happy-phd/</guid>
+      <guid>http://ahappyphd.org/tags/mental-health/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://ahappyphd.org/tags/about/</link>
-      <pubDate>Thu, 03 Jan 2019 15:41:55 +0100</pubDate>
+      <title>Negative thoughts</title>
+      <link>http://ahappyphd.org/tags/negative-thoughts/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/about/</guid>
+      <guid>http://ahappyphd.org/tags/negative-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Advice</title>
-      <link>http://ahappyphd.org/tags/advice/</link>
-      <pubDate>Sun, 28 Jun 2020 22:33:36 +0300</pubDate>
+      <title>Productivity</title>
+      <link>http://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/advice/</guid>
+      <guid>http://ahappyphd.org/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anxiety</title>
-      <link>http://ahappyphd.org/tags/anxiety/</link>
-      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
+      <title>Self-talk</title>
+      <link>http://ahappyphd.org/tags/self-talk/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/anxiety/</guid>
+      <guid>http://ahappyphd.org/tags/self-talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ask Me</title>
-      <link>http://ahappyphd.org/tags/ask-me/</link>
-      <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
+      <title>Uncomfortable emotions</title>
+      <link>http://ahappyphd.org/tags/uncomfortable-emotions/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/ask-me/</guid>
+      <guid>http://ahappyphd.org/tags/uncomfortable-emotions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Attention</title>
-      <link>http://ahappyphd.org/tags/attention/</link>
-      <pubDate>Sat, 16 Nov 2019 10:49:04 +0200</pubDate>
+      <title>Wellbeing</title>
+      <link>http://ahappyphd.org/tags/wellbeing/</link>
+      <pubDate>Thu, 11 Mar 2021 08:26:34 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attitudes</title>
-      <link>http://ahappyphd.org/tags/attitudes/</link>
-      <pubDate>Fri, 10 Apr 2020 09:33:48 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/attitudes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attrition</title>
-      <link>http://ahappyphd.org/tags/attrition/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/attrition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authorship</title>
-      <link>http://ahappyphd.org/tags/authorship/</link>
-      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/authorship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bandwidth</title>
-      <link>http://ahappyphd.org/tags/bandwidth/</link>
-      <pubDate>Sat, 16 Nov 2019 10:49:04 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/bandwidth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>http://ahappyphd.org/tags/blog/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Break</title>
-      <link>http://ahappyphd.org/tags/break/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/break/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breaks</title>
-      <link>http://ahappyphd.org/tags/breaks/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/breaks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Burnout</title>
-      <link>http://ahappyphd.org/tags/burnout/</link>
-      <pubDate>Fri, 24 Jan 2020 11:30:48 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/burnout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calendar</title>
-      <link>http://ahappyphd.org/tags/calendar/</link>
-      <pubDate>Sun, 10 Nov 2019 17:41:51 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/calendar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>http://ahappyphd.org/tags/career/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/career/</guid>
+      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
       <description></description>
     </item>
     
@@ -174,60 +84,6 @@
     </item>
     
     <item>
-      <title>Chronobiology</title>
-      <link>http://ahappyphd.org/tags/chronobiology/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/chronobiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Civility</title>
-      <link>http://ahappyphd.org/tags/civility/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/civility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>http://ahappyphd.org/tags/communication/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compassion</title>
-      <link>http://ahappyphd.org/tags/compassion/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/compassion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Completion</title>
-      <link>http://ahappyphd.org/tags/completion/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>http://ahappyphd.org/tags/conference/</link>
-      <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Conflict</title>
       <link>http://ahappyphd.org/tags/conflict/</link>
       <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
@@ -237,65 +93,74 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://ahappyphd.org/tags/contact/</link>
-      <pubDate>Fri, 04 Jan 2019 09:59:00 +0100</pubDate>
+      <title>Focus</title>
+      <link>http://ahappyphd.org/tags/focus/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/contact/</guid>
+      <guid>http://ahappyphd.org/tags/focus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Covid 19</title>
-      <link>http://ahappyphd.org/tags/covid-19/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
+      <title>Identity</title>
+      <link>http://ahappyphd.org/tags/identity/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/covid-19/</guid>
+      <guid>http://ahappyphd.org/tags/identity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Craftsmanship</title>
-      <link>http://ahappyphd.org/tags/craftsmanship/</link>
-      <pubDate>Sun, 28 Jun 2020 22:33:36 +0300</pubDate>
+      <title>Performance</title>
+      <link>http://ahappyphd.org/tags/performance/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/craftsmanship/</guid>
+      <guid>http://ahappyphd.org/tags/performance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Creativity</title>
-      <link>http://ahappyphd.org/tags/creativity/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      <title>Planning</title>
+      <link>http://ahappyphd.org/tags/planning/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/creativity/</guid>
+      <guid>http://ahappyphd.org/tags/planning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Curiosity</title>
-      <link>http://ahappyphd.org/tags/curiosity/</link>
-      <pubDate>Mon, 13 May 2019 01:01:58 +0300</pubDate>
+      <title>Priorities</title>
+      <link>http://ahappyphd.org/tags/priorities/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/curiosity/</guid>
+      <guid>http://ahappyphd.org/tags/priorities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Decision</title>
-      <link>http://ahappyphd.org/tags/decision/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      <title>Task</title>
+      <link>http://ahappyphd.org/tags/task/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/decision/</guid>
+      <guid>http://ahappyphd.org/tags/task/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Depression</title>
-      <link>http://ahappyphd.org/tags/depression/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 +0100</pubDate>
+      <title>Time management</title>
+      <link>http://ahappyphd.org/tags/time-management/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/depression/</guid>
+      <guid>http://ahappyphd.org/tags/time-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timeblocking</title>
+      <link>http://ahappyphd.org/tags/timeblocking/</link>
+      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/timeblocking/</guid>
       <description></description>
     </item>
     
@@ -309,38 +174,83 @@
     </item>
     
     <item>
-      <title>Dilemma</title>
-      <link>http://ahappyphd.org/tags/dilemma/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      <title>Fuel</title>
+      <link>http://ahappyphd.org/tags/fuel/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/dilemma/</guid>
+      <guid>http://ahappyphd.org/tags/fuel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dropout</title>
-      <link>http://ahappyphd.org/tags/dropout/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      <title>Habits</title>
+      <link>http://ahappyphd.org/tags/habits/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/dropout/</guid>
+      <guid>http://ahappyphd.org/tags/habits/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Empathy</title>
-      <link>http://ahappyphd.org/tags/empathy/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      <title>Map</title>
+      <link>http://ahappyphd.org/tags/map/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/empathy/</guid>
+      <guid>http://ahappyphd.org/tags/map/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Engagement</title>
-      <link>http://ahappyphd.org/tags/engagement/</link>
-      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      <title>Milestones</title>
+      <link>http://ahappyphd.org/tags/milestones/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/engagement/</guid>
+      <guid>http://ahappyphd.org/tags/milestones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>http://ahappyphd.org/tags/progress/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>http://ahappyphd.org/tags/thesis/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>http://ahappyphd.org/tags/toolbox/</link>
+      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaks</title>
+      <link>http://ahappyphd.org/tags/breaks/</link>
+      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/breaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chronobiology</title>
+      <link>http://ahappyphd.org/tags/chronobiology/</link>
+      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/chronobiology/</guid>
       <description></description>
     </item>
     
@@ -354,11 +264,92 @@
     </item>
     
     <item>
-      <title>Ethics</title>
-      <link>http://ahappyphd.org/tags/ethics/</link>
-      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
+      <title>Fun</title>
+      <link>http://ahappyphd.org/tags/fun/</link>
+      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/ethics/</guid>
+      <guid>http://ahappyphd.org/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purpose</title>
+      <link>http://ahappyphd.org/tags/purpose/</link>
+      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://ahappyphd.org/tags/schedule/</link>
+      <pubDate>Fri, 27 Nov 2020 13:56:27 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://ahappyphd.org/tags/communication/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interruption</title>
+      <link>http://ahappyphd.org/tags/interruption/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/interruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://ahappyphd.org/tags/papers/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ahappyphd.org/tags/research/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-doubt</title>
+      <link>http://ahappyphd.org/tags/self-doubt/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/self-doubt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty</title>
+      <link>http://ahappyphd.org/tags/uncertainty/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://ahappyphd.org/tags/writing/</link>
+      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -381,479 +372,11 @@
     </item>
     
     <item>
-      <title>Focus</title>
-      <link>http://ahappyphd.org/tags/focus/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/focus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Friendliness</title>
-      <link>http://ahappyphd.org/tags/friendliness/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/friendliness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fuel</title>
-      <link>http://ahappyphd.org/tags/fuel/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/fuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fun</title>
-      <link>http://ahappyphd.org/tags/fun/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generosity</title>
-      <link>http://ahappyphd.org/tags/generosity/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/generosity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gratitude</title>
-      <link>http://ahappyphd.org/tags/gratitude/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/gratitude/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grit</title>
-      <link>http://ahappyphd.org/tags/grit/</link>
-      <pubDate>Sat, 14 Sep 2019 19:58:29 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/grit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group</title>
-      <link>http://ahappyphd.org/tags/group/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Habits</title>
-      <link>http://ahappyphd.org/tags/habits/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/habits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Happiness</title>
-      <link>http://ahappyphd.org/tags/happiness/</link>
-      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/happiness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>http://ahappyphd.org/tags/health/</link>
-      <pubDate>Sun, 23 Feb 2020 20:34:26 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holidays</title>
-      <link>http://ahappyphd.org/tags/holidays/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/holidays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identity</title>
-      <link>http://ahappyphd.org/tags/identity/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/identity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impostor Syndrome</title>
-      <link>http://ahappyphd.org/tags/impostor-syndrome/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/impostor-syndrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incivility</title>
-      <link>http://ahappyphd.org/tags/incivility/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/incivility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Insomnia</title>
-      <link>http://ahappyphd.org/tags/insomnia/</link>
-      <pubDate>Sun, 23 Feb 2020 20:34:26 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/insomnia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interruption</title>
-      <link>http://ahappyphd.org/tags/interruption/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/interruption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intuition</title>
-      <link>http://ahappyphd.org/tags/intuition/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/intuition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Job Crafting</title>
-      <link>http://ahappyphd.org/tags/job-crafting/</link>
-      <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/job-crafting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journaling</title>
-      <link>http://ahappyphd.org/tags/journaling/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/journaling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kindness</title>
-      <link>http://ahappyphd.org/tags/kindness/</link>
-      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/kindness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>http://ahappyphd.org/tags/learning/</link>
-      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leisure</title>
-      <link>http://ahappyphd.org/tags/leisure/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/leisure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://ahappyphd.org/tags/life/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mantra</title>
-      <link>http://ahappyphd.org/tags/mantra/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/mantra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Map</title>
-      <link>http://ahappyphd.org/tags/map/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/map/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meetings</title>
-      <link>http://ahappyphd.org/tags/meetings/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/meetings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Health</title>
-      <link>http://ahappyphd.org/tags/mental-health/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta</title>
-      <link>http://ahappyphd.org/tags/meta/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Milestones</title>
-      <link>http://ahappyphd.org/tags/milestones/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/milestones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mindfulness</title>
-      <link>http://ahappyphd.org/tags/mindfulness/</link>
-      <pubDate>Mon, 30 Mar 2020 14:11:06 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/mindfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative Thoughts</title>
-      <link>http://ahappyphd.org/tags/negative-thoughts/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/negative-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>http://ahappyphd.org/tags/networking/</link>
-      <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://ahappyphd.org/tags/news/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Okrs</title>
-      <link>http://ahappyphd.org/tags/okrs/</link>
-      <pubDate>Wed, 05 Feb 2020 09:46:51 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/okrs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outbreak</title>
-      <link>http://ahappyphd.org/tags/outbreak/</link>
-      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/outbreak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers</title>
-      <link>http://ahappyphd.org/tags/papers/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pattern</title>
       <link>http://ahappyphd.org/tags/pattern/</link>
       <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>http://ahappyphd.org/tags/performance/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal</title>
-      <link>http://ahappyphd.org/tags/personal/</link>
-      <pubDate>Fri, 01 Mar 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pitch</title>
-      <link>http://ahappyphd.org/tags/pitch/</link>
-      <pubDate>Mon, 20 May 2019 09:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/pitch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planning</title>
-      <link>http://ahappyphd.org/tags/planning/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poetry</title>
-      <link>http://ahappyphd.org/tags/poetry/</link>
-      <pubDate>Fri, 10 Apr 2020 09:33:48 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive Emotions</title>
-      <link>http://ahappyphd.org/tags/positive-emotions/</link>
-      <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/positive-emotions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive Psychology</title>
-      <link>http://ahappyphd.org/tags/positive-psychology/</link>
-      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/positive-psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presenting</title>
-      <link>http://ahappyphd.org/tags/presenting/</link>
-      <pubDate>Sun, 30 Jun 2019 19:35:02 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/presenting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principles</title>
-      <link>http://ahappyphd.org/tags/principles/</link>
-      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/principles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Priorities</title>
-      <link>http://ahappyphd.org/tags/priorities/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/priorities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>http://ahappyphd.org/tags/process/</link>
-      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>http://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progress</title>
-      <link>http://ahappyphd.org/tags/progress/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychopathology</title>
-      <link>http://ahappyphd.org/tags/psychopathology/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/psychopathology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Purpose</title>
-      <link>http://ahappyphd.org/tags/purpose/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/purpose/</guid>
       <description></description>
     </item>
     
@@ -867,20 +390,245 @@
     </item>
     
     <item>
-      <title>Reflection</title>
-      <link>http://ahappyphd.org/tags/reflection/</link>
-      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
+      <title>Supervision</title>
+      <link>http://ahappyphd.org/tags/supervision/</link>
+      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/tags/reflection/</guid>
+      <guid>http://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
+      <title>A Happy PhD</title>
+      <link>http://ahappyphd.org/tags/a-happy-phd/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/tags/research/</guid>
+      <guid>http://ahappyphd.org/tags/a-happy-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://ahappyphd.org/tags/blog/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>http://ahappyphd.org/tags/meta/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://ahappyphd.org/tags/news/</link>
+      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creativity</title>
+      <link>http://ahappyphd.org/tags/creativity/</link>
+      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision</title>
+      <link>http://ahappyphd.org/tags/decision/</link>
+      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group</title>
+      <link>http://ahappyphd.org/tags/group/</link>
+      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetings</title>
+      <link>http://ahappyphd.org/tags/meetings/</link>
+      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/meetings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://ahappyphd.org/tags/career/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dilemma</title>
+      <link>http://ahappyphd.org/tags/dilemma/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/dilemma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuition</title>
+      <link>http://ahappyphd.org/tags/intuition/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/intuition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://ahappyphd.org/tags/life/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>http://ahappyphd.org/tags/values/</link>
+      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Break</title>
+      <link>http://ahappyphd.org/tags/break/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>http://ahappyphd.org/tags/holidays/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leisure</title>
+      <link>http://ahappyphd.org/tags/leisure/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/leisure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>http://ahappyphd.org/tags/rest/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer</title>
+      <link>http://ahappyphd.org/tags/summer/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/summer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vacations</title>
+      <link>http://ahappyphd.org/tags/vacations/</link>
+      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/vacations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>http://ahappyphd.org/tags/advice/</link>
+      <pubDate>Sun, 28 Jun 2020 22:33:36 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craftsmanship</title>
+      <link>http://ahappyphd.org/tags/craftsmanship/</link>
+      <pubDate>Sun, 28 Jun 2020 22:33:36 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/craftsmanship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authorship</title>
+      <link>http://ahappyphd.org/tags/authorship/</link>
+      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/authorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>http://ahappyphd.org/tags/ethics/</link>
+      <pubDate>Sun, 17 May 2020 11:28:31 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>http://ahappyphd.org/tags/covid-19/</link>
+      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journaling</title>
+      <link>http://ahappyphd.org/tags/journaling/</link>
+      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/journaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychopathology</title>
+      <link>http://ahappyphd.org/tags/psychopathology/</link>
+      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/psychopathology/</guid>
       <description></description>
     </item>
     
@@ -894,20 +642,74 @@
     </item>
     
     <item>
-      <title>Respect</title>
-      <link>http://ahappyphd.org/tags/respect/</link>
-      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      <title>Attitudes</title>
+      <link>http://ahappyphd.org/tags/attitudes/</link>
+      <pubDate>Fri, 10 Apr 2020 09:33:48 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/tags/respect/</guid>
+      <guid>http://ahappyphd.org/tags/attitudes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rest</title>
-      <link>http://ahappyphd.org/tags/rest/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      <title>Poetry</title>
+      <link>http://ahappyphd.org/tags/poetry/</link>
+      <pubDate>Fri, 10 Apr 2020 09:33:48 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/tags/rest/</guid>
+      <guid>http://ahappyphd.org/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindfulness</title>
+      <link>http://ahappyphd.org/tags/mindfulness/</link>
+      <pubDate>Mon, 30 Mar 2020 14:11:06 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety</title>
+      <link>http://ahappyphd.org/tags/anxiety/</link>
+      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outbreak</title>
+      <link>http://ahappyphd.org/tags/outbreak/</link>
+      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/outbreak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worry</title>
+      <link>http://ahappyphd.org/tags/worry/</link>
+      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/worry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principles</title>
+      <link>http://ahappyphd.org/tags/principles/</link>
+      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>http://ahappyphd.org/tags/process/</link>
+      <pubDate>Sun, 15 Mar 2020 13:12:31 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/process/</guid>
       <description></description>
     </item>
     
@@ -930,65 +732,29 @@
     </item>
     
     <item>
-      <title>Scarcity</title>
-      <link>http://ahappyphd.org/tags/scarcity/</link>
-      <pubDate>Sun, 10 Nov 2019 17:41:51 +0200</pubDate>
+      <title>Health</title>
+      <link>http://ahappyphd.org/tags/health/</link>
+      <pubDate>Sun, 23 Feb 2020 20:34:26 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/scarcity/</guid>
+      <guid>http://ahappyphd.org/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Schedule</title>
-      <link>http://ahappyphd.org/tags/schedule/</link>
-      <pubDate>Fri, 27 Nov 2020 13:56:27 +0200</pubDate>
+      <title>Insomnia</title>
+      <link>http://ahappyphd.org/tags/insomnia/</link>
+      <pubDate>Sun, 23 Feb 2020 20:34:26 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/schedule/</guid>
+      <guid>http://ahappyphd.org/tags/insomnia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self Determination</title>
-      <link>http://ahappyphd.org/tags/self-determination/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/self-determination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self Doubt</title>
-      <link>http://ahappyphd.org/tags/self-doubt/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/self-doubt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self Talk</title>
-      <link>http://ahappyphd.org/tags/self-talk/</link>
-      <pubDate>Fri, 08 May 2020 09:04:40 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/self-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self Tracking</title>
+      <title>Self-tracking</title>
       <link>http://ahappyphd.org/tags/self-tracking/</link>
       <pubDate>Sun, 23 Feb 2020 20:34:26 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/self-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Series</title>
-      <link>http://ahappyphd.org/tags/series/</link>
-      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/series/</guid>
       <description></description>
     </item>
     
@@ -1002,56 +768,353 @@
     </item>
     
     <item>
-      <title>Summer</title>
-      <link>http://ahappyphd.org/tags/summer/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
+      <title>OKRs</title>
+      <link>http://ahappyphd.org/tags/okrs/</link>
+      <pubDate>Wed, 05 Feb 2020 09:46:51 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/summer/</guid>
+      <guid>http://ahappyphd.org/tags/okrs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Supervision</title>
-      <link>http://ahappyphd.org/tags/supervision/</link>
-      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
+      <title>Burnout</title>
+      <link>http://ahappyphd.org/tags/burnout/</link>
+      <pubDate>Fri, 24 Jan 2020 11:30:48 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/supervision/</guid>
+      <guid>http://ahappyphd.org/tags/burnout/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Task</title>
-      <link>http://ahappyphd.org/tags/task/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
+      <title>2019</title>
+      <link>http://ahappyphd.org/tags/2019/</link>
+      <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/task/</guid>
+      <guid>http://ahappyphd.org/tags/2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thesis</title>
-      <link>http://ahappyphd.org/tags/thesis/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
+      <title>Attention</title>
+      <link>http://ahappyphd.org/tags/attention/</link>
+      <pubDate>Sat, 16 Nov 2019 10:49:04 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/thesis/</guid>
+      <guid>http://ahappyphd.org/tags/attention/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Time Management</title>
-      <link>http://ahappyphd.org/tags/time-management/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
+      <title>Bandwidth</title>
+      <link>http://ahappyphd.org/tags/bandwidth/</link>
+      <pubDate>Sat, 16 Nov 2019 10:49:04 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/time-management/</guid>
+      <guid>http://ahappyphd.org/tags/bandwidth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Timeblocking</title>
-      <link>http://ahappyphd.org/tags/timeblocking/</link>
-      <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
+      <title>Calendar</title>
+      <link>http://ahappyphd.org/tags/calendar/</link>
+      <pubDate>Sun, 10 Nov 2019 17:41:51 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/tags/timeblocking/</guid>
+      <guid>http://ahappyphd.org/tags/calendar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scarcity</title>
+      <link>http://ahappyphd.org/tags/scarcity/</link>
+      <pubDate>Sun, 10 Nov 2019 17:41:51 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/scarcity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://ahappyphd.org/tags/learning/</link>
+      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>http://ahappyphd.org/tags/reflection/</link>
+      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement</title>
+      <link>http://ahappyphd.org/tags/engagement/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happiness</title>
+      <link>http://ahappyphd.org/tags/happiness/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kindness</title>
+      <link>http://ahappyphd.org/tags/kindness/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/kindness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive Psychology</title>
+      <link>http://ahappyphd.org/tags/positive-psychology/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/positive-psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>http://ahappyphd.org/tags/series/</link>
+      <pubDate>Fri, 04 Oct 2019 16:59:14 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civility</title>
+      <link>http://ahappyphd.org/tags/civility/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/civility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compassion</title>
+      <link>http://ahappyphd.org/tags/compassion/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/compassion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empathy</title>
+      <link>http://ahappyphd.org/tags/empathy/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/empathy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendliness</title>
+      <link>http://ahappyphd.org/tags/friendliness/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/friendliness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generosity</title>
+      <link>http://ahappyphd.org/tags/generosity/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/generosity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gratitude</title>
+      <link>http://ahappyphd.org/tags/gratitude/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/gratitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incivility</title>
+      <link>http://ahappyphd.org/tags/incivility/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/incivility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>http://ahappyphd.org/tags/respect/</link>
+      <pubDate>Sat, 28 Sep 2019 19:12:54 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/respect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grit</title>
+      <link>http://ahappyphd.org/tags/grit/</link>
+      <pubDate>Sat, 14 Sep 2019 19:58:29 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/grit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job crafting</title>
+      <link>http://ahappyphd.org/tags/job-crafting/</link>
+      <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/job-crafting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive emotions</title>
+      <link>http://ahappyphd.org/tags/positive-emotions/</link>
+      <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/positive-emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting</title>
+      <link>http://ahappyphd.org/tags/presenting/</link>
+      <pubDate>Sun, 30 Jun 2019 19:35:02 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/presenting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://ahappyphd.org/tags/conference/</link>
+      <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>http://ahappyphd.org/tags/networking/</link>
+      <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitch</title>
+      <link>http://ahappyphd.org/tags/pitch/</link>
+      <pubDate>Mon, 20 May 2019 09:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/pitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curiosity</title>
+      <link>http://ahappyphd.org/tags/curiosity/</link>
+      <pubDate>Mon, 13 May 2019 01:01:58 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/curiosity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To-do</title>
+      <link>http://ahappyphd.org/tags/to-do/</link>
+      <pubDate>Sun, 05 May 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/to-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask me</title>
+      <link>http://ahappyphd.org/tags/ask-me/</link>
+      <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/ask-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attrition</title>
+      <link>http://ahappyphd.org/tags/attrition/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/attrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completion</title>
+      <link>http://ahappyphd.org/tags/completion/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout</title>
+      <link>http://ahappyphd.org/tags/dropout/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/dropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impostor syndrome</title>
+      <link>http://ahappyphd.org/tags/impostor-syndrome/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/impostor-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-determination</title>
+      <link>http://ahappyphd.org/tags/self-determination/</link>
+      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/self-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>http://ahappyphd.org/tags/depression/</link>
+      <pubDate>Fri, 08 Mar 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://ahappyphd.org/tags/personal/</link>
+      <pubDate>Fri, 01 Mar 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/personal/</guid>
       <description></description>
     </item>
     
@@ -1065,74 +1128,20 @@
     </item>
     
     <item>
-      <title>To Do</title>
-      <link>http://ahappyphd.org/tags/to-do/</link>
-      <pubDate>Sun, 05 May 2019 12:00:00 +0100</pubDate>
+      <title>Contact</title>
+      <link>http://ahappyphd.org/tags/contact/</link>
+      <pubDate>Fri, 04 Jan 2019 09:59:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/to-do/</guid>
+      <guid>http://ahappyphd.org/tags/contact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Toolbox</title>
-      <link>http://ahappyphd.org/tags/toolbox/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
+      <title>About</title>
+      <link>http://ahappyphd.org/tags/about/</link>
+      <pubDate>Thu, 03 Jan 2019 15:41:55 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/tags/toolbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty</title>
-      <link>http://ahappyphd.org/tags/uncertainty/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vacations</title>
-      <link>http://ahappyphd.org/tags/vacations/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/vacations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Values</title>
-      <link>http://ahappyphd.org/tags/values/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/values/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wellbeing</title>
-      <link>http://ahappyphd.org/tags/wellbeing/</link>
-      <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Worry</title>
-      <link>http://ahappyphd.org/tags/worry/</link>
-      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/worry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>http://ahappyphd.org/tags/writing/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/writing/</guid>
+      <guid>http://ahappyphd.org/tags/about/</guid>
       <description></description>
     </item>
     
