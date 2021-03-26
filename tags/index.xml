@@ -6,10 +6,100 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 08:26:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 10:33:56 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Appropriation</title>
+      <link>http://ahappyphd.org/tags/appropriation/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/appropriation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attrition</title>
+      <link>http://ahappyphd.org/tags/attrition/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/attrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy</title>
+      <link>http://ahappyphd.org/tags/autonomy/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/autonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competence</title>
+      <link>http://ahappyphd.org/tags/competence/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/competence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completion</title>
+      <link>http://ahappyphd.org/tags/completion/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout</title>
+      <link>http://ahappyphd.org/tags/dropout/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/dropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>http://ahappyphd.org/tags/profile/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>http://ahappyphd.org/tags/progress/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relatedness</title>
+      <link>http://ahappyphd.org/tags/relatedness/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/relatedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-determination</title>
+      <link>http://ahappyphd.org/tags/self-determination/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/self-determination/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mantra</title>
@@ -206,15 +296,6 @@
       <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/milestones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progress</title>
-      <link>http://ahappyphd.org/tags/progress/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/progress/</guid>
       <description></description>
     </item>
     
@@ -1056,47 +1137,11 @@
     </item>
     
     <item>
-      <title>Attrition</title>
-      <link>http://ahappyphd.org/tags/attrition/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/attrition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Completion</title>
-      <link>http://ahappyphd.org/tags/completion/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dropout</title>
-      <link>http://ahappyphd.org/tags/dropout/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/dropout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Impostor syndrome</title>
       <link>http://ahappyphd.org/tags/impostor-syndrome/</link>
       <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/impostor-syndrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-determination</title>
-      <link>http://ahappyphd.org/tags/self-determination/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/self-determination/</guid>
       <description></description>
     </item>
     

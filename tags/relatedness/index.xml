@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relatedness on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/relatedness/</link>
+    <description>Recent content in Relatedness on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 10:33:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://ahappyphd.org/tags/relatedness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What kind of doctoral student are you? Motivational profiles and completing the PhD (Study report)</title>
+      <link>http://ahappyphd.org/posts/what-kind-phd-student/</link>
+      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/what-kind-phd-student/</guid>
+      <description>Many factors seem to play out into whether we complete our PhD, or drop out of it. Some of them are external and largely uncontrollable (like financial or family problems), while others relate to our thesis project and motivation. In this new type of blog post (the &amp;ldquo;study report&amp;rdquo;), I dive into the results of a recent research study that defines five types of doctoral students, in terms of their motivational profile.</description>
+    </item>
+    
+  </channel>
+</rss>
