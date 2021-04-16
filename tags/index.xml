@@ -6,7 +6,7 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Mar 2021 10:33:56 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 08:50:08 +0300</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Appropriation</title>
       <link>http://ahappyphd.org/tags/appropriation/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/appropriation/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Attrition</title>
       <link>http://ahappyphd.org/tags/attrition/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/attrition/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Autonomy</title>
       <link>http://ahappyphd.org/tags/autonomy/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/autonomy/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Competence</title>
       <link>http://ahappyphd.org/tags/competence/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/competence/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Completion</title>
       <link>http://ahappyphd.org/tags/completion/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/completion/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Dropout</title>
       <link>http://ahappyphd.org/tags/dropout/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/dropout/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Profile</title>
       <link>http://ahappyphd.org/tags/profile/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/profile/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Progress</title>
       <link>http://ahappyphd.org/tags/progress/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/progress/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Relatedness</title>
       <link>http://ahappyphd.org/tags/relatedness/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/relatedness/</guid>
       <description></description>
@@ -95,9 +95,18 @@
     <item>
       <title>Self-determination</title>
       <link>http://ahappyphd.org/tags/self-determination/</link>
-      <pubDate>Wed, 24 Mar 2021 10:33:56 +0200</pubDate>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/self-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>http://ahappyphd.org/tags/supervision/</link>
+      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
@@ -467,15 +476,6 @@
       <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/quickie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>http://ahappyphd.org/tags/supervision/</link>
-      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
