@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breaks on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/breaks/</link>
-    <description>Recent content in Breaks on A Happy PhD</description>
+    <title>Exercise on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/exercise/</link>
+    <description>Recent content in Exercise on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 May 2021 08:42:19 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/breaks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/exercise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/chrono-breaks/</guid>
       <description>&lt;p&gt;Being the &amp;ldquo;cognitive athletes&amp;rdquo; they are, PhD students (and researchers) should take &lt;em&gt;rest&lt;/em&gt; very seriously, to perform at their best. Yet, not all breaks are created equal: timing and other factors affect their effectiveness. Continuing previous dives into &lt;a href=&#34;http://ahappyphd.org/posts/chronobiology/&#34;&gt;chronobiology&lt;/a&gt; and &lt;a href=&#34;http://ahappyphd.org/posts/holidays/&#34;&gt;taking holidays&lt;/a&gt;, this post goes over evidence-based tips and tricks to make your breaks the most restorative and energizing.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Micro-breaks and two Monday Mantras to supercharge them</title>
-      <link>http://ahappyphd.org/posts/micro-break-mantras/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/micro-break-mantras/</guid>
-      <description>When we are writing a research paper, we need to find long stretches of focused time to get that writing done. Yet, even if we find them, can we really sustain intense focus during two or more hours? Today&amp;rsquo;s post looks at a research-backed and often overlooked tool in our productivity toolbox: the micro-break. To top it up, I provide two &amp;ldquo;monday mantras&amp;rdquo; to make your micro-breaks even more effective.</description>
     </item>
     
   </channel>
