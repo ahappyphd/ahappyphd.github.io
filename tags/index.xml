@@ -6,10 +6,55 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 08:42:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 09:35:04 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conferences</title>
+      <link>http://ahappyphd.org/tags/conferences/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ahappyphd.org/tags/research/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>http://ahappyphd.org/tags/supervision/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>http://ahappyphd.org/tags/thesis/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://ahappyphd.org/tags/training/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/training/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Breaks</title>
@@ -179,15 +224,6 @@
       <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/self-determination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>http://ahappyphd.org/tags/supervision/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
@@ -363,15 +399,6 @@
     </item>
     
     <item>
-      <title>Thesis</title>
-      <link>http://ahappyphd.org/tags/thesis/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Toolbox</title>
       <link>http://ahappyphd.org/tags/toolbox/</link>
       <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
@@ -440,15 +467,6 @@
       <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     

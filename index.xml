@@ -6,10 +6,19 @@
     <description>Recent content on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 08:42:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 09:35:04 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Doctoral Consortium format for times of COVID</title>
+      <link>http://ahappyphd.org/posts/doctoral-consortium/</link>
+      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/posts/doctoral-consortium/</guid>
+      <description>&lt;p&gt;Doctoral Consortia are events (often, at scientific conferences) where doctoral students present their dissertation ideas and get expert feedback on them. I have co-organized a few of these events during the first waves of the pandemic, which students seemed to find useful (the events, not the pandemic!). In this post, I describe the (online) event format that we followed, in case it helps future organizers of similar events. If you are a PhD student, I hope this post will also encourage you to attend one!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Notes on chronobiology for the PhD (II): The science of breaks</title>
