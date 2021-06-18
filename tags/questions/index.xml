@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflection on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/reflection/</link>
-    <description>Recent content in Reflection on A Happy PhD</description>
+    <title>Questions on A Happy PhD</title>
+    <link>http://ahappyphd.org/tags/questions/</link>
+    <description>Recent content in Questions on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jun 2021 09:34:01 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ahappyphd.org/tags/questions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ahappyphd.org/posts/quickie-answers/</guid>
       <description>&lt;p&gt;During a PhD (or any research) we need to answer not only the research questions we have set for ourselves, but also a host of other questions. Many of them are reflective and/or open in nature. Yet, we often slap whatever answer first pops into our brains, and run with it. In today&amp;rsquo;s &amp;ldquo;quickie&amp;rdquo; post, I share a simple practice that can help in getting over this &lt;a href=&#34;https://fs.blog/2021/06/availability-bias-cognitive-distortion/&#34;&gt;availability bias&lt;/a&gt; to get deeper, better answers to your open reflective questions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Productivity tip: How I do weekly reviews</title>
-      <link>http://ahappyphd.org/posts/weekly-review/</link>
-      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/posts/weekly-review/</guid>
-      <description>&lt;p&gt;Despite the emphasis I have made so far in developing productive and healthy everyday routines (from &lt;a href=&#34;http://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;to-do lists&lt;/a&gt; to &lt;a href=&#34;http://ahappyphd.org/posts/pomodoro-technique/&#34;&gt;pomodoros&lt;/a&gt;), not everything about productivity happens at this tactical, day-to-day level. In this short post, I guide you through what I think is the centerpiece of my own personal productivity system: the weekly review.&lt;/p&gt;</description>
     </item>
     
   </channel>

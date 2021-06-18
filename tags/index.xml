@@ -6,10 +6,82 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 09:35:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 09:34:01 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Answers</title>
+      <link>http://ahappyphd.org/tags/answers/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/answers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creativity</title>
+      <link>http://ahappyphd.org/tags/creativity/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern</title>
+      <link>http://ahappyphd.org/tags/pattern/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>http://ahappyphd.org/tags/questions/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickie</title>
+      <link>http://ahappyphd.org/tags/quickie/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/quickie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>http://ahappyphd.org/tags/reflection/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ahappyphd.org/tags/research/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>http://ahappyphd.org/tags/toolbox/</link>
+      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/toolbox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conferences</title>
@@ -17,15 +89,6 @@
       <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
@@ -399,15 +462,6 @@
     </item>
     
     <item>
-      <title>Toolbox</title>
-      <link>http://ahappyphd.org/tags/toolbox/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/toolbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Enjoyment</title>
       <link>http://ahappyphd.org/tags/enjoyment/</link>
       <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
@@ -516,24 +570,6 @@
     </item>
     
     <item>
-      <title>Pattern</title>
-      <link>http://ahappyphd.org/tags/pattern/</link>
-      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quickie</title>
-      <link>http://ahappyphd.org/tags/quickie/</link>
-      <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/quickie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Happy PhD</title>
       <link>http://ahappyphd.org/tags/a-happy-phd/</link>
       <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
@@ -566,15 +602,6 @@
       <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creativity</title>
-      <link>http://ahappyphd.org/tags/creativity/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/creativity/</guid>
       <description></description>
     </item>
     
@@ -971,15 +998,6 @@
       <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reflection</title>
-      <link>http://ahappyphd.org/tags/reflection/</link>
-      <pubDate>Sat, 19 Oct 2019 12:54:50 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/reflection/</guid>
       <description></description>
     </item>
     
