@@ -6,10 +6,73 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 12:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 18:14:20 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chronobiology</title>
+      <link>http://ahappyphd.org/tags/chronobiology/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/chronobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus</title>
+      <link>http://ahappyphd.org/tags/focus/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habits</title>
+      <link>http://ahappyphd.org/tags/habits/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://ahappyphd.org/tags/health/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>http://ahappyphd.org/tags/performance/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>http://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wellbeing</title>
+      <link>http://ahappyphd.org/tags/wellbeing/</link>
+      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diary</title>
@@ -17,15 +80,6 @@
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/diary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>http://ahappyphd.org/tags/health/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/health/</guid>
       <description></description>
     </item>
     
@@ -62,15 +116,6 @@
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wellbeing</title>
-      <link>http://ahappyphd.org/tags/wellbeing/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
       <description></description>
     </item>
     
@@ -192,29 +237,11 @@
     </item>
     
     <item>
-      <title>Chronobiology</title>
-      <link>http://ahappyphd.org/tags/chronobiology/</link>
-      <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/chronobiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exercise</title>
       <link>http://ahappyphd.org/tags/exercise/</link>
       <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Focus</title>
-      <link>http://ahappyphd.org/tags/focus/</link>
-      <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/focus/</guid>
       <description></description>
     </item>
     
@@ -233,24 +260,6 @@
       <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/naps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>http://ahappyphd.org/tags/performance/</link>
-      <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>http://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Fri, 07 May 2021 08:42:19 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/productivity/</guid>
       <description></description>
     </item>
     
@@ -485,15 +494,6 @@
       <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/fuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Habits</title>
-      <link>http://ahappyphd.org/tags/habits/</link>
-      <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/habits/</guid>
       <description></description>
     </item>
     
