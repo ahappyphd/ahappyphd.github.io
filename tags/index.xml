@@ -6,10 +6,73 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 18:14:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 13:44:49 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anxiety</title>
+      <link>http://ahappyphd.org/tags/anxiety/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attrition</title>
+      <link>http://ahappyphd.org/tags/attrition/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/attrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completion</title>
+      <link>http://ahappyphd.org/tags/completion/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>http://ahappyphd.org/tags/depression/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout</title>
+      <link>http://ahappyphd.org/tags/dropout/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/dropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicide</title>
+      <link>http://ahappyphd.org/tags/suicide/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/suicide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wellbeing</title>
+      <link>http://ahappyphd.org/tags/wellbeing/</link>
+      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chronobiology</title>
@@ -62,15 +125,6 @@
       <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wellbeing</title>
-      <link>http://ahappyphd.org/tags/wellbeing/</link>
-      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/wellbeing/</guid>
       <description></description>
     </item>
     
@@ -282,15 +336,6 @@
     </item>
     
     <item>
-      <title>Attrition</title>
-      <link>http://ahappyphd.org/tags/attrition/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/attrition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Autonomy</title>
       <link>http://ahappyphd.org/tags/autonomy/</link>
       <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
@@ -305,24 +350,6 @@
       <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/competence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Completion</title>
-      <link>http://ahappyphd.org/tags/completion/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dropout</title>
-      <link>http://ahappyphd.org/tags/dropout/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/dropout/</guid>
       <description></description>
     </item>
     
@@ -867,15 +894,6 @@
     </item>
     
     <item>
-      <title>Anxiety</title>
-      <link>http://ahappyphd.org/tags/anxiety/</link>
-      <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/anxiety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Outbreak</title>
       <link>http://ahappyphd.org/tags/outbreak/</link>
       <pubDate>Sat, 21 Mar 2020 11:50:55 +0200</pubDate>
@@ -1223,15 +1241,6 @@
       <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
       
       <guid>http://ahappyphd.org/tags/impostor-syndrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Depression</title>
-      <link>http://ahappyphd.org/tags/depression/</link>
-      <pubDate>Fri, 08 Mar 2019 12:00:00 +0100</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/depression/</guid>
       <description></description>
     </item>
     
