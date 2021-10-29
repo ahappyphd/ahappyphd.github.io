@@ -6,10 +6,82 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 13:44:49 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 15:21:05 +0200</lastBuildDate>
     
 	<atom:link href="http://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Career</title>
+      <link>http://ahappyphd.org/tags/career/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision</title>
+      <link>http://ahappyphd.org/tags/decision/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dilemma</title>
+      <link>http://ahappyphd.org/tags/dilemma/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/dilemma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://ahappyphd.org/tags/learning/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://ahappyphd.org/tags/life/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question</title>
+      <link>http://ahappyphd.org/tags/question/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ahappyphd.org/tags/research/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>http://ahappyphd.org/tags/values/</link>
+      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
+      
+      <guid>http://ahappyphd.org/tags/values/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anxiety</title>
@@ -147,15 +219,6 @@
     </item>
     
     <item>
-      <title>Learning</title>
-      <link>http://ahappyphd.org/tags/learning/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reflection</title>
       <link>http://ahappyphd.org/tags/reflection/</link>
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
@@ -224,15 +287,6 @@
       <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
       
       <guid>http://ahappyphd.org/tags/quickie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://ahappyphd.org/tags/research/</link>
-      <pubDate>Mon, 14 Jun 2021 09:34:01 +0200</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
@@ -678,15 +732,6 @@
     </item>
     
     <item>
-      <title>Decision</title>
-      <link>http://ahappyphd.org/tags/decision/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/decision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Group</title>
       <link>http://ahappyphd.org/tags/group/</link>
       <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
@@ -705,47 +750,11 @@
     </item>
     
     <item>
-      <title>Career</title>
-      <link>http://ahappyphd.org/tags/career/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dilemma</title>
-      <link>http://ahappyphd.org/tags/dilemma/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/dilemma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Intuition</title>
       <link>http://ahappyphd.org/tags/intuition/</link>
       <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
       
       <guid>http://ahappyphd.org/tags/intuition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://ahappyphd.org/tags/life/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Values</title>
-      <link>http://ahappyphd.org/tags/values/</link>
-      <pubDate>Sun, 20 Sep 2020 11:59:28 +0300</pubDate>
-      
-      <guid>http://ahappyphd.org/tags/values/</guid>
       <description></description>
     </item>
     
