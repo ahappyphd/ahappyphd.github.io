@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Priorities on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/priorities/</link>
+    <link>https://ahappyphd.org/tags/priorities/</link>
     <description>Recent content in Priorities on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2021 09:38:35 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/priorities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/priorities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Defusing task conflict in the PhD</title>
-      <link>http://ahappyphd.org/posts/task-conflict/</link>
+      <link>https://ahappyphd.org/posts/task-conflict/</link>
       <pubDate>Mon, 01 Mar 2021 09:38:35 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/posts/task-conflict/</guid>
-      <description>&lt;p&gt;As we saw &lt;a href=&#34;http://ahappyphd.org/posts/productivity-challenges/&#34;&gt;in a recent post&lt;/a&gt;, “task conflict” is a common productivity challenge of doctoral students. As PhD students, we often have to juggle different identities, priorities, jobs, projects… along with doing the thesis itself. Yet, so often, it is the thesis-related tasks that keep getting pushed back. In this post, I will go over tips, practices and techniques that might be useful if you find yourself struggling with this particular challenge in your PhD.&lt;/p&gt;</description>
+      <guid>https://ahappyphd.org/posts/task-conflict/</guid>
+      <description>&lt;p&gt;As we saw &lt;a href=&#34;https://ahappyphd.org/posts/productivity-challenges/&#34;&gt;in a recent post&lt;/a&gt;, “task conflict” is a common productivity challenge of doctoral students. As PhD students, we often have to juggle different identities, priorities, jobs, projects… along with doing the thesis itself. Yet, so often, it is the thesis-related tasks that keep getting pushed back. In this post, I will go over tips, practices and techniques that might be useful if you find yourself struggling with this particular challenge in your PhD.&lt;/p&gt;</description>
     </item>
     
   </channel>

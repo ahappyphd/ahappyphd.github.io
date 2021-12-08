@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/contact/</link>
+    <link>https://ahappyphd.org/tags/contact/</link>
     <description>Recent content in Contact on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jan 2019 09:59:00 +0100</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://ahappyphd.org/contact/</link>
+      <link>https://ahappyphd.org/contact/</link>
       <pubDate>Fri, 04 Jan 2019 09:59:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/contact/</guid>
+      <guid>https://ahappyphd.org/contact/</guid>
       <description>Please leave your comments, suggestions (for posts or about the blog), etc. in the form below, or email me at ahappyphd.blog@gmail.com. You can also let me know there if you want to be notified by email every time a new post goes up.
 Your NameEmail AddressAn email address is required.Message</description>
     </item>

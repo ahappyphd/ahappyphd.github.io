@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fuel on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/fuel/</link>
+    <link>https://ahappyphd.org/tags/fuel/</link>
     <description>Recent content in Fuel on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jan 2021 18:32:52 +0100</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/fuel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/fuel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhD tool: Map out your PhD</title>
-      <link>http://ahappyphd.org/posts/map-thesis/</link>
+      <link>https://ahappyphd.org/posts/map-thesis/</link>
       <pubDate>Sat, 16 Jan 2021 18:32:52 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/posts/map-thesis/</guid>
-      <description>&lt;p&gt;We know that &lt;a href=&#34;http://ahappyphd.org/posts/progress-loop/&#34;&gt;steady everyday progress&lt;/a&gt; is a crucial factor in finishing a PhD. In previous posts, we have seen &lt;a href=&#34;http://ahappyphd.org/posts/pomodoro-technique/&#34;&gt;productivity&lt;/a&gt; &lt;a href=&#34;http://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;techniques&lt;/a&gt; to support us in taking more of these daily steps. Yet, a lot of walking does not necessarily get us anywhere. We need to know that we are actually getting past key reference points, closer to our final destination. In this post, I propose a diagramming exercise to map out key obstacles, milestones and the &amp;ldquo;everyday fuel&amp;rdquo; that propels us past them in our journey towards PhD completion.&lt;/p&gt;</description>
+      <guid>https://ahappyphd.org/posts/map-thesis/</guid>
+      <description>&lt;p&gt;We know that &lt;a href=&#34;https://ahappyphd.org/posts/progress-loop/&#34;&gt;steady everyday progress&lt;/a&gt; is a crucial factor in finishing a PhD. In previous posts, we have seen &lt;a href=&#34;https://ahappyphd.org/posts/pomodoro-technique/&#34;&gt;productivity&lt;/a&gt; &lt;a href=&#34;https://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;techniques&lt;/a&gt; to support us in taking more of these daily steps. Yet, a lot of walking does not necessarily get us anywhere. We need to know that we are actually getting past key reference points, closer to our final destination. In this post, I propose a diagramming exercise to map out key obstacles, milestones and the &amp;ldquo;everyday fuel&amp;rdquo; that propels us past them in our journey towards PhD completion.&lt;/p&gt;</description>
     </item>
     
   </channel>

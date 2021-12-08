@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/feedback/</link>
+    <link>https://ahappyphd.org/tags/feedback/</link>
     <description>Recent content in Feedback on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Oct 2020 16:49:59 +0300</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Supervisor Quickie: the Post-It Feedback Method</title>
-      <link>http://ahappyphd.org/posts/quickie-feedback/</link>
+      <link>https://ahappyphd.org/posts/quickie-feedback/</link>
       <pubDate>Fri, 30 Oct 2020 16:49:59 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/posts/quickie-feedback/</guid>
+      <guid>https://ahappyphd.org/posts/quickie-feedback/</guid>
       <description>&lt;p&gt;Have you ever spent hours providing feedback over a colleague&amp;rsquo;s (or a student&amp;rsquo;s) paper? And have you ever found afterwards that many of your carefully-crafted, thoughtful comments had been ignored? In this &amp;ldquo;quickie&amp;rdquo; post for supervisors (or for anyone giving internal feedback), I share a small trick that I use lately to avoid these situations&amp;hellip; and get better outcomes for everyone involved.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ask A Happy Ph.D. - Student edition</title>
-      <link>http://ahappyphd.org/posts/ask-happy-phd-student/</link>
+      <link>https://ahappyphd.org/posts/ask-happy-phd-student/</link>
       <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/posts/ask-happy-phd-student/</guid>
+      <guid>https://ahappyphd.org/posts/ask-happy-phd-student/</guid>
       <description>&lt;p&gt;This time I would like to turn the mike over to you, PhD students, and let &lt;em&gt;you&lt;/em&gt; tell &lt;em&gt;me&lt;/em&gt; what you want to hear about in this blog (I will do a separate one for supervisors and supervision later on). What would you like to know about doing a Ph.D., or being a (happier, more productive) PhD student?&lt;/p&gt;</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/calendar/</link>
+    <link>https://ahappyphd.org/tags/calendar/</link>
     <description>Recent content in Calendar on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2019 17:41:51 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Report from the trenches: of calendar tricks and time scarcity</title>
-      <link>http://ahappyphd.org/posts/calendar-trick/</link>
+      <link>https://ahappyphd.org/posts/calendar-trick/</link>
       <pubDate>Sun, 10 Nov 2019 17:41:51 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/posts/calendar-trick/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;http://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;a previous post&lt;/a&gt;, I proposed the use of your favorite calendar app to store all your TO-DOs and avoid over-committing. I&amp;rsquo;ve been trying this productivity trick on myself for the past few months. In this new kind of blog post, I report on the results of this self-experiment, and the effect it has had on my own productivity and wellbeing. I also provide some practical tips and tricks, in case you want to try it out for yourself. &lt;a href=&#34;https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read&#34;&gt;TL;DR&lt;/a&gt;: It works&amp;hellip; if you are a bit careful.&lt;/p&gt;</description>
+      <guid>https://ahappyphd.org/posts/calendar-trick/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;a previous post&lt;/a&gt;, I proposed the use of your favorite calendar app to store all your TO-DOs and avoid over-committing. I&amp;rsquo;ve been trying this productivity trick on myself for the past few months. In this new kind of blog post, I report on the results of this self-experiment, and the effect it has had on my own productivity and wellbeing. I also provide some practical tips and tricks, in case you want to try it out for yourself. &lt;a href=&#34;https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read&#34;&gt;TL;DR&lt;/a&gt;: It works&amp;hellip; if you are a bit careful.&lt;/p&gt;</description>
     </item>
     
   </channel>

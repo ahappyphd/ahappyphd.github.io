@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vacations on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/vacations/</link>
+    <link>https://ahappyphd.org/tags/vacations/</link>
     <description>Recent content in Vacations on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jul 2020 12:01:52 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/vacations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/vacations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Take your holidays… the right way</title>
-      <link>http://ahappyphd.org/posts/holidays/</link>
+      <link>https://ahappyphd.org/posts/holidays/</link>
       <pubDate>Wed, 22 Jul 2020 12:01:52 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/posts/holidays/</guid>
+      <guid>https://ahappyphd.org/posts/holidays/</guid>
       <description>&lt;p&gt;As a PhD student, one sometimes gets the impression that holidays are something that happens only to other people, or that one does not deserve them (I’m so behind on so many things!). Yet, what does the research say about taking holidays, is it really good for you as a doctoral student? Are there better or worse ways of taking a vacation? As preparation for the blog’s own summer hiatus, this post goes over the benefits, pitfalls, and optimal dynamics of taking a longer break.&lt;/p&gt;</description>
     </item>
     

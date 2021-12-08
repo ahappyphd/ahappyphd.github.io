@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/a-happy-phd/</link>
+    <link>https://ahappyphd.org/tags/a-happy-phd/</link>
     <description>Recent content on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Oct 2020 17:24:44 +0300</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/a-happy-phd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/a-happy-phd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Latest News from A Happy PhD</title>
-      <link>http://ahappyphd.org/posts/news-october-2020/</link>
+      <link>https://ahappyphd.org/posts/news-october-2020/</link>
       <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
       
-      <guid>http://ahappyphd.org/posts/news-october-2020/</guid>
+      <guid>https://ahappyphd.org/posts/news-october-2020/</guid>
       <description>&lt;p&gt;Just a quick update about what&amp;rsquo;s been going on lately at the &amp;lsquo;A Happy PhD&amp;rsquo; headquarters. Expect a change of pace in the next weeks: shorter, more regular posts, our new &amp;lsquo;Twitter Tuesdays&amp;rsquo;, and much more!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>One year of &#39;A Happy PhD&#39;: What happened in 2019</title>
-      <link>http://ahappyphd.org/posts/ahappyphd-2019/</link>
+      <link>https://ahappyphd.org/posts/ahappyphd-2019/</link>
       <pubDate>Fri, 10 Jan 2020 09:00:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/posts/ahappyphd-2019/</guid>
+      <guid>https://ahappyphd.org/posts/ahappyphd-2019/</guid>
       <description>&lt;p&gt;Wow, does time fly by! During the Christmas and New Year&amp;rsquo;s hiatus, I had the chance to pause and review what has happened with the blog since I started it about one year ago. Read on if you want to know which were the most popular posts of 2019, where does this blog&amp;rsquo;s readership come from, and what lies in waiting for 2020&amp;hellip;&lt;/p&gt;</description>
     </item>
     

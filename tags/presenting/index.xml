@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presenting on A Happy PhD</title>
-    <link>http://ahappyphd.org/tags/presenting/</link>
+    <link>https://ahappyphd.org/tags/presenting/</link>
     <description>Recent content in Presenting on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2019 19:35:02 +0200</lastBuildDate>
     
-	<atom:link href="http://ahappyphd.org/tags/presenting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/presenting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monday Mantra: On scientific communication and research in general</title>
-      <link>http://ahappyphd.org/posts/monday-mantra-2/</link>
+      <link>https://ahappyphd.org/posts/monday-mantra-2/</link>
       <pubDate>Sun, 30 Jun 2019 19:35:02 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/posts/monday-mantra-2/</guid>
+      <guid>https://ahappyphd.org/posts/monday-mantra-2/</guid>
       <description>&lt;p&gt;When we present our research to others, in a conference or in writing, we often feel insecure: is what I found obvious? is there a fatal flaw in my reasoning or my data analysis? will the audience finally &lt;a href=&#34;https://en.wikipedia.org/wiki/Impostor_syndrome&#34;&gt;unmask me as the impostor I am&lt;/a&gt;? This week&amp;rsquo;s short &amp;ldquo;Monday Mantra&amp;rdquo; goes at the heart of such unproductive self-talk. What is all this really about?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tips for attending scientific conferences</title>
-      <link>http://ahappyphd.org/posts/going-to-conferences/</link>
+      <link>https://ahappyphd.org/posts/going-to-conferences/</link>
       <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
       
-      <guid>http://ahappyphd.org/posts/going-to-conferences/</guid>
+      <guid>https://ahappyphd.org/posts/going-to-conferences/</guid>
       <description>&lt;p&gt;Going to an international conference, to present your own work or to better understand a scientific community, is usually an intense (even stressful) experience. As a doctoral student, probably even more so. In this post I share a selection of advice and tricks to make your next conference more pleasant (and useful in the long-term). Go forth, and enjoy a few days of &amp;ldquo;geeking out&amp;rdquo; with fellow researchers!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PhD tool: Pitching your research with the NABC model</title>
-      <link>http://ahappyphd.org/posts/pitching-nabc/</link>
+      <link>https://ahappyphd.org/posts/pitching-nabc/</link>
       <pubDate>Mon, 20 May 2019 09:00:00 +0100</pubDate>
       
-      <guid>http://ahappyphd.org/posts/pitching-nabc/</guid>
+      <guid>https://ahappyphd.org/posts/pitching-nabc/</guid>
       <description>As a Ph.D. student, you very often have to present what your research is about. Maybe you want to get quick feedback from a visiting professor. Or you need to give a talk at a conference or doctoral consortium. In this post, I go over a technique adapted from a large US research lab I once visited. I will walk you through its simple four- (or five-)part structure, including real examples from my own work.</description>
     </item>
     
