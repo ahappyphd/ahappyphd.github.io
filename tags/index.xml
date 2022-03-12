@@ -6,10 +6,73 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 12:36:55 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 12:13:04 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning</title>
+      <link>https://ahappyphd.org/tags/learning/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purpose</title>
+      <link>https://ahappyphd.org/tags/purpose/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>https://ahappyphd.org/tags/reflection/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective</title>
+      <link>https://ahappyphd.org/tags/retrospective/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://ahappyphd.org/tags/review/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>https://ahappyphd.org/tags/values/</link>
+      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/values/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dilemma</title>
@@ -62,24 +125,6 @@
       <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/decision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>https://ahappyphd.org/tags/learning/</link>
-      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Values</title>
-      <link>https://ahappyphd.org/tags/values/</link>
-      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/values/</guid>
       <description></description>
     </item>
     
@@ -192,15 +237,6 @@
     </item>
     
     <item>
-      <title>Productivity</title>
-      <link>https://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Wed, 25 Aug 2021 18:14:20 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Diary</title>
       <link>https://ahappyphd.org/tags/diary/</link>
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
@@ -215,24 +251,6 @@
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/journaling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reflection</title>
-      <link>https://ahappyphd.org/tags/reflection/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/reflection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>https://ahappyphd.org/tags/review/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/review/</guid>
       <description></description>
     </item>
     
@@ -611,15 +629,6 @@
       <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Purpose</title>
-      <link>https://ahappyphd.org/tags/purpose/</link>
-      <pubDate>Fri, 11 Dec 2020 16:29:18 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/purpose/</guid>
       <description></description>
     </item>
     
