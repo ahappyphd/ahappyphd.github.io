@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ahappyphd.org/newsletter/</loc>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ahappyphd.org/</loc>
-    <lastmod>2022-04-09T12:06:48+02:00</lastmod>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/categories/</loc>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/newsletter/</loc>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/categories/pages/</loc>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/</loc>
+    <lastmod>2022-05-17T07:59:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,13 +67,6 @@
   
   <url>
     <loc>https://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2022-04-09T12:06:48+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/categories/</loc>
     <lastmod>2022-04-09T12:06:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -74,13 +102,6 @@
   
   <url>
     <loc>https://ahappyphd.org/posts/</loc>
-    <lastmod>2022-04-09T12:06:48+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/</loc>
     <lastmod>2022-04-09T12:06:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1523,13 +1544,6 @@
   
   <url>
     <loc>https://ahappyphd.org/contact/</loc>
-    <lastmod>2019-01-04T09:59:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/categories/pages/</loc>
     <lastmod>2019-01-04T09:59:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
