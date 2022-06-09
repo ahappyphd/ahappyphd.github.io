@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social media on A Happy PhD</title>
-    <link>https://ahappyphd.org/tags/social-media/</link>
-    <description>Recent content in Social media on A Happy PhD</description>
+    <title>Consumption on A Happy PhD</title>
+    <link>https://ahappyphd.org/tags/consumption/</link>
+    <description>Recent content in Consumption on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jun 2022 12:02:15 +0200</lastBuildDate>
     
-	<atom:link href="https://ahappyphd.org/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahappyphd.org/tags/consumption/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ahappyphd.org/posts/create-consume/</guid>
       <description>&lt;p&gt;Do you start your workday full of energy and eager to tackle your research but find yourself by mid-morning already spent and demoralized? Does this happen after a flurry of email interactions, &lt;a href=&#34;https://ahappyphd.org/posts/social-media-addiction/&#34;&gt;social media scrolling&lt;/a&gt;, or passive meetings? You may be experiencing the differential effects of creative and consumptive work on your motivation and energy. This post will go over a (still half-baked) idea about how different kinds of work energize us, and simple rules that we can implement for a more sustained sense of &lt;a href=&#34;https://ahappyphd.org/posts/progress-loop/&#34;&gt;progress&lt;/a&gt; and satisfaction with our (PhD or otherwise) work.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Facing addiction to social media in the PhD</title>
-      <link>https://ahappyphd.org/posts/social-media-addiction/</link>
-      <pubDate>Mon, 23 May 2022 23:55:08 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/posts/social-media-addiction/</guid>
-      <description>Are you spending more time on social media than you would like? Is your use of Facebook, Twitter, Instagram, TikTok&amp;hellip; hampering progress on your doctoral research? You are not alone: many doctoral students report in our workshops that spending too much time scrolling compulsively on social media is one of their biggest productivity challenges. Building upon the insights about dopamine and addiction from our previous post, here I go over eight concrete steps we can take to break this compulsion and do more of the things we think are really important (like finishing that thesis).</description>
     </item>
     
   </channel>
