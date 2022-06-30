@@ -4,28 +4,133 @@
   
   <url>
     <loc>https://ahappyphd.org/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/act/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/anxiety/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/authors/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/avoidance/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/avoidance/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/depression/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/authors/luis-p.-prieto/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/mental-health/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/negative-thoughts/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/authors/paula-odriozola-gonzalez/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/psychopathology/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/self-talk/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/stress/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/wellbeing/</loc>
+    <lastmod>2022-06-29T11:17:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,21 +150,7 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/authors/luis-p.-prieto/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/tags/mantra/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/posts/</loc>
     <lastmod>2022-06-07T12:02:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,13 +185,6 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/</loc>
-    <lastmod>2022-06-07T12:02:15+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/posts/create-consume/</loc>
     <lastmod>2022-06-07T12:02:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -109,13 +193,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/addiction/</loc>
-    <lastmod>2022-05-23T23:55:08+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/depression/</loc>
     <lastmod>2022-05-23T23:55:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -144,13 +221,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/mindfulness/</loc>
-    <lastmod>2022-05-23T23:55:08+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/wellbeing/</loc>
     <lastmod>2022-05-23T23:55:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -299,13 +369,6 @@
   <url>
     <loc>https://ahappyphd.org/tags/decision/</loc>
     <lastmod>2021-10-28T15:21:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/anxiety/</loc>
-    <lastmod>2021-09-24T13:44:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -606,27 +669,6 @@
   
   <url>
     <loc>https://ahappyphd.org/posts/mantra-emotions/</loc>
-    <lastmod>2021-03-11T08:26:34+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/mental-health/</loc>
-    <lastmod>2021-03-11T08:26:34+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/negative-thoughts/</loc>
-    <lastmod>2021-03-11T08:26:34+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/self-talk/</loc>
     <lastmod>2021-03-11T08:26:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1019,20 +1061,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/covid-19/</loc>
-    <lastmod>2020-05-08T09:04:40+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/authors/paula-odriozola-gonzalez/</loc>
-    <lastmod>2020-05-08T09:04:40+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/psychopathology/</loc>
     <lastmod>2020-05-08T09:04:40+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
