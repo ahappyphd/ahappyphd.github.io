@@ -6,10 +6,55 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 11:17:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 01:14:56 +0200</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Communication</title>
+      <link>https://ahappyphd.org/tags/communication/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editing</title>
+      <link>https://ahappyphd.org/tags/editing/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://ahappyphd.org/tags/papers/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ahappyphd.org/tags/research/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://ahappyphd.org/tags/writing/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/writing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ACT</title>
@@ -300,15 +345,6 @@
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://ahappyphd.org/tags/research/</link>
-      <pubDate>Fri, 28 Jan 2022 12:36:55 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Career</title>
       <link>https://ahappyphd.org/tags/career/</link>
       <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
@@ -422,15 +458,6 @@
       <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/journaling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://ahappyphd.org/tags/writing/</link>
-      <pubDate>Sat, 21 Aug 2021 12:45:00 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -768,29 +795,11 @@
     </item>
     
     <item>
-      <title>Communication</title>
-      <link>https://ahappyphd.org/tags/communication/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interruption</title>
       <link>https://ahappyphd.org/tags/interruption/</link>
       <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/interruption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers</title>
-      <link>https://ahappyphd.org/tags/papers/</link>
-      <pubDate>Fri, 13 Nov 2020 16:57:21 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/papers/</guid>
       <description></description>
     </item>
     

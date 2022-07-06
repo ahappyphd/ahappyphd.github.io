@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 11:17:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 01:14:56 +0200</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting into the weeds of writing</title>
+      <link>https://ahappyphd.org/posts/weeds-writing/</link>
+      <pubDate>Wed, 06 Jul 2022 01:14:56 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/weeds-writing/</guid>
+      <description>&lt;p&gt;Do you feel like the prose of your papers is burdensome and rambling, even after lots of &lt;a href=&#34;https://ahappyphd.org/posts/how-i-write-papers/&#34;&gt;outlining and feedback&lt;/a&gt;? Do you often get feedback from co-authors about it being ambiguous, aimless or vague? Do you keep making the same writing mistakes again and again? The final step in drafting a paper (generating final prose &lt;em&gt;and editing it&lt;/em&gt; sentence-by-sentence for clarity) is laborious and often overlooked. In this short post, I point you to a set of proofreading/editing tips from another blog, and share with you one tip to help you detect those pesky errors and make your prose more punchy.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Avoiding avoidance and other mental self-sabotage in the PhD</title>
