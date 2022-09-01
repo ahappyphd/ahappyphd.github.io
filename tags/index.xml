@@ -6,17 +6,71 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jul 2022 23:51:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 10:11:55 +0200</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Accountability</title>
+      <link>https://ahappyphd.org/tags/accountability/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/accountability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Book extract</title>
       <link>https://ahappyphd.org/tags/book-extract/</link>
-      <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/book-extract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus</title>
+      <link>https://ahappyphd.org/tags/focus/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://ahappyphd.org/tags/performance/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-tracking</title>
+      <link>https://ahappyphd.org/tags/self-tracking/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/self-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time management</title>
+      <link>https://ahappyphd.org/tags/time-management/</link>
+      <pubDate>Wed, 31 Aug 2022 10:11:55 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/time-management/</guid>
       <description></description>
     </item>
     
@@ -30,47 +84,11 @@
     </item>
     
     <item>
-      <title>Focus</title>
-      <link>https://ahappyphd.org/tags/focus/</link>
-      <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/focus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>https://ahappyphd.org/tags/performance/</link>
-      <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Planning</title>
       <link>https://ahappyphd.org/tags/planning/</link>
       <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time management</title>
-      <link>https://ahappyphd.org/tags/time-management/</link>
-      <pubDate>Wed, 27 Jul 2022 23:51:25 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/time-management/</guid>
       <description></description>
     </item>
     
@@ -242,15 +260,6 @@
       <pubDate>Tue, 07 Jun 2022 12:02:15 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/rules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-tracking</title>
-      <link>https://ahappyphd.org/tags/self-tracking/</link>
-      <pubDate>Tue, 07 Jun 2022 12:02:15 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/self-tracking/</guid>
       <description></description>
     </item>
     
