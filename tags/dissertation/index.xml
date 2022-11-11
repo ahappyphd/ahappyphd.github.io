@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dissertation on A Happy PhD</title>
+    <link>https://ahappyphd.org/tags/dissertation/</link>
+    <description>Recent content in Dissertation on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 13:29:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://ahappyphd.org/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swath and Dive: A pattern for PhD defense presentations</title>
+      <link>https://ahappyphd.org/posts/swath-dive/</link>
+      <pubDate>Fri, 11 Nov 2022 13:29:23 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/swath-dive/</guid>
+      <description>In recent times I&amp;rsquo;m having the fortune of seeing several of my own doctoral students approach the end of the doctoral journey (yes, it does end!). As they submit the dissertation and prepare for their defense, there is one piece of advice I find myself giving again and again, about how to tackle the impossible task of presenting multiple years of research work in less than one hour. In this post, I describe a &amp;ldquo;presentation design pattern&amp;rdquo; for thesis defenses, which builds upon classic conceptualization exercises advocated in the blog.</description>
+    </item>
+    
+  </channel>
+</rss>
