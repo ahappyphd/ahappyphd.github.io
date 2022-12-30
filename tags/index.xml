@@ -6,10 +6,91 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 13:29:23 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2022 16:45:22 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creativity</title>
+      <link>https://ahappyphd.org/tags/creativity/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision</title>
+      <link>https://ahappyphd.org/tags/decision/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dilemma</title>
+      <link>https://ahappyphd.org/tags/dilemma/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/dilemma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group</title>
+      <link>https://ahappyphd.org/tags/group/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetings</title>
+      <link>https://ahappyphd.org/tags/meetings/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/meetings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern</title>
+      <link>https://ahappyphd.org/tags/pattern/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>https://ahappyphd.org/tags/progress/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ahappyphd.org/tags/research/</link>
+      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Communication</title>
@@ -39,29 +120,11 @@
     </item>
     
     <item>
-      <title>Pattern</title>
-      <link>https://ahappyphd.org/tags/pattern/</link>
-      <pubDate>Fri, 11 Nov 2022 13:29:23 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Presenting</title>
       <link>https://ahappyphd.org/tags/presenting/</link>
       <pubDate>Fri, 11 Nov 2022 13:29:23 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/presenting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://ahappyphd.org/tags/research/</link>
-      <pubDate>Fri, 11 Nov 2022 13:29:23 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
@@ -138,15 +201,6 @@
     </item>
     
     <item>
-      <title>Creativity</title>
-      <link>https://ahappyphd.org/tags/creativity/</link>
-      <pubDate>Thu, 15 Sep 2022 08:42:03 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/creativity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep work</title>
       <link>https://ahappyphd.org/tags/deep-work/</link>
       <pubDate>Thu, 15 Sep 2022 08:42:03 +0200</pubDate>
@@ -170,15 +224,6 @@
       <pubDate>Thu, 15 Sep 2022 08:42:03 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Thu, 15 Sep 2022 08:42:03 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/productivity/</guid>
       <description></description>
     </item>
     
@@ -435,15 +480,6 @@
     </item>
     
     <item>
-      <title>Dilemma</title>
-      <link>https://ahappyphd.org/tags/dilemma/</link>
-      <pubDate>Fri, 28 Jan 2022 12:36:55 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/dilemma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Life</title>
       <link>https://ahappyphd.org/tags/life/</link>
       <pubDate>Fri, 28 Jan 2022 12:36:55 +0100</pubDate>
@@ -467,15 +503,6 @@
       <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision</title>
-      <link>https://ahappyphd.org/tags/decision/</link>
-      <pubDate>Thu, 28 Oct 2021 15:21:05 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/decision/</guid>
       <description></description>
     </item>
     
@@ -705,15 +732,6 @@
     </item>
     
     <item>
-      <title>Progress</title>
-      <link>https://ahappyphd.org/tags/progress/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Relatedness</title>
       <link>https://ahappyphd.org/tags/relatedness/</link>
       <pubDate>Thu, 08 Apr 2021 08:50:08 +0300</pubDate>
@@ -935,24 +953,6 @@
       <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
       
       <guid>https://ahappyphd.org/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group</title>
-      <link>https://ahappyphd.org/tags/group/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meetings</title>
-      <link>https://ahappyphd.org/tags/meetings/</link>
-      <pubDate>Sat, 03 Oct 2020 23:26:49 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/meetings/</guid>
       <description></description>
     </item>
     
