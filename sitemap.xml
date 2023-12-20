@@ -4,41 +4,104 @@
   
   <url>
     <loc>https://ahappyphd.org/authors/luis-p.-prieto/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/addiction/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/authors/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/chatgpt/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/chatgpt-productivity/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/focus/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/performance/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/productivity/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/progress/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/time-management/</loc>
+    <lastmod>2023-12-20T10:21:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/addiction/</loc>
     <lastmod>2023-10-28T10:33:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,35 +122,7 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/performance/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/posts/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/productivity/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/tags/regret/</loc>
-    <lastmod>2023-10-28T10:33:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/</loc>
     <lastmod>2023-10-28T10:33:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -130,13 +165,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/depression/</loc>
-    <lastmod>2023-10-18T11:39:38+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/focus/</loc>
     <lastmod>2023-10-18T11:39:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -290,13 +318,6 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/progress/</loc>
-    <lastmod>2023-03-28T08:15:13+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/tags/self-tracking/</loc>
     <lastmod>2023-03-28T08:15:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -305,13 +326,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/thesis/</loc>
-    <lastmod>2023-03-28T08:15:13+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/time-management/</loc>
     <lastmod>2023-03-28T08:15:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

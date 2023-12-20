@@ -6,10 +6,19 @@
     <description>Recent content in Blog on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Oct 2023 10:33:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 10:21:11 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ChatGPT&#39;s doctoral productivity advice... and four ideas the algorithm will (probably) not give you</title>
+      <link>https://ahappyphd.org/posts/chatgpt-productivity/</link>
+      <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/chatgpt-productivity/</guid>
+      <description>&lt;p&gt;We know that &lt;a href=&#34;https://ahappyphd.org/posts/progress-loop/&#34;&gt;making progress&lt;/a&gt; is a critical motivational factor in finishing a PhD &lt;em&gt;and&lt;/em&gt; maintaining good mental health while we do it. In turn, our &lt;a href=&#34;https://ahappyphd.org/tags/productivity/&#34;&gt;productivity&lt;/a&gt; plays a big role in whether we make progress on our dissertation or not. As the first post in a series on doctoral productivity, I could not help but fall into one of the &lt;em&gt;thèmes du jour&lt;/em&gt;: whether ChatGPT and similar artificial intelligence (AI) tools can write a good piece about this topic. In this post, I go over a couple of iterations of (pretty good) computationally-generated advice, and finally give you a few ideas that I think are overlooked by the algorithm.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tiny idea: Use the Regret Test for daily decision-making</title>
