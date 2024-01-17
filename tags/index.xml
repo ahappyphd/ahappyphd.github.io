@@ -6,10 +6,46 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2023 10:21:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 12:10:57 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Focus</title>
+      <link>https://ahappyphd.org/tags/focus/</link>
+      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procrastination</title>
+      <link>https://ahappyphd.org/tags/procrastination/</link>
+      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/procrastination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To-do</title>
+      <link>https://ahappyphd.org/tags/to-do/</link>
+      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/to-do/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ChatGPT</title>
@@ -21,29 +57,11 @@
     </item>
     
     <item>
-      <title>Focus</title>
-      <link>https://ahappyphd.org/tags/focus/</link>
-      <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/focus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Performance</title>
       <link>https://ahappyphd.org/tags/performance/</link>
       <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/productivity/</guid>
       <description></description>
     </item>
     
@@ -215,15 +233,6 @@
       <pubDate>Wed, 26 Apr 2023 07:25:41 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/habit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Procrastination</title>
-      <link>https://ahappyphd.org/tags/procrastination/</link>
-      <pubDate>Wed, 26 Apr 2023 07:25:41 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/procrastination/</guid>
       <description></description>
     </item>
     
@@ -1475,15 +1484,6 @@
       <pubDate>Mon, 13 May 2019 01:01:58 +0300</pubDate>
       
       <guid>https://ahappyphd.org/tags/curiosity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To-do</title>
-      <link>https://ahappyphd.org/tags/to-do/</link>
-      <pubDate>Sun, 05 May 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/to-do/</guid>
       <description></description>
     </item>
     

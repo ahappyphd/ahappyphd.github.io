@@ -6,10 +6,19 @@
     <description>Recent content in Focus on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2023 10:21:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 12:10:57 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/focus/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tiny practice: Beating procrastination with The Right Now List</title>
+      <link>https://ahappyphd.org/posts/tiny-rightnow/</link>
+      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/tiny-rightnow/</guid>
+      <description>&lt;p&gt;One of the top &lt;a href=&#34;https://ahappyphd.org/posts/productivity-challenges/&#34;&gt;barriers to PhD productivity&lt;/a&gt; is procrastination. Have you ever found yourself with a big ugly task getting stale in your to-do list, repeatedly postponed because it is too big, too abstract, or makes you somehow uncomfortable? This tiny practice post gives you an simple trick to beat this sort of procrastination.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ChatGPT&#39;s doctoral productivity advice... and four ideas the algorithm will (probably) not give you</title>
