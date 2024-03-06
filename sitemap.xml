@@ -4,48 +4,97 @@
   
   <url>
     <loc>https://ahappyphd.org/authors/luis-p.-prieto/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/authors/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/focus/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
+    <loc>https://ahappyphd.org/tags/mindset/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/posts/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/practice/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/productivity/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/tiny/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/tiny-menus/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/to-do/</loc>
+    <lastmod>2024-03-06T10:13:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/focus/</loc>
     <lastmod>2024-01-17T12:10:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,28 +108,7 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/productivity/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/posts/tiny-rightnow/</loc>
-    <lastmod>2024-01-17T12:10:57+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/to-do/</loc>
     <lastmod>2024-01-17T12:10:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -221,20 +249,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/nature/</loc>
-    <lastmod>2023-10-06T15:47:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/practice/</loc>
-    <lastmod>2023-10-06T15:47:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/tiny/</loc>
     <lastmod>2023-10-06T15:47:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
