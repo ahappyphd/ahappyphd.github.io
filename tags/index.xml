@@ -6,10 +6,37 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 10:13:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 11:20:36 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Focus</title>
+      <link>https://ahappyphd.org/tags/focus/</link>
+      <pubDate>Tue, 12 Mar 2024 11:20:36 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://ahappyphd.org/tags/productivity/</link>
+      <pubDate>Tue, 12 Mar 2024 11:20:36 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>https://ahappyphd.org/tags/values/</link>
+      <pubDate>Tue, 12 Mar 2024 11:20:36 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/values/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mindset</title>
@@ -30,15 +57,6 @@
     </item>
     
     <item>
-      <title>Productivity</title>
-      <link>https://ahappyphd.org/tags/productivity/</link>
-      <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tiny</title>
       <link>https://ahappyphd.org/tags/tiny/</link>
       <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
@@ -53,15 +71,6 @@
       <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/to-do/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Focus</title>
-      <link>https://ahappyphd.org/tags/focus/</link>
-      <pubDate>Wed, 17 Jan 2024 12:10:57 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/focus/</guid>
       <description></description>
     </item>
     
@@ -651,15 +660,6 @@
     </item>
     
     <item>
-      <title>Values</title>
-      <link>https://ahappyphd.org/tags/values/</link>
-      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/values/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Life</title>
       <link>https://ahappyphd.org/tags/life/</link>
       <pubDate>Fri, 28 Jan 2022 12:36:55 +0100</pubDate>
@@ -795,11 +795,11 @@
     </item>
     
     <item>
-      <title>Conferences</title>
-      <link>https://ahappyphd.org/tags/conferences/</link>
+      <title>Conference</title>
+      <link>https://ahappyphd.org/tags/conference/</link>
       <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
       
-      <guid>https://ahappyphd.org/tags/conferences/</guid>
+      <guid>https://ahappyphd.org/tags/conference/</guid>
       <description></description>
     </item>
     
@@ -1457,15 +1457,6 @@
       <pubDate>Sat, 07 Sep 2019 19:10:43 +0300</pubDate>
       
       <guid>https://ahappyphd.org/tags/positive-emotions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>https://ahappyphd.org/tags/conference/</link>
-      <pubDate>Mon, 17 Jun 2019 18:03:07 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/conference/</guid>
       <description></description>
     </item>
     
