@@ -6,10 +6,19 @@
     <description>Recent content in Research on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 10:58:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:17:34 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tiny Practice and AI Tip -- Create Your Topical &#39;A Happy PhD AI Companion&#39;</title>
+      <link>https://ahappyphd.org/posts/blog-ai-companion/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/blog-ai-companion/</guid>
+      <description>&lt;p&gt;Have you ever wished for advice from this blog, tailored to your specific questions or situation? For getting &lt;a href=&#34;https://en.wikipedia.org/wiki/TL;DR&#34;&gt;a tl;dr&lt;/a&gt; of our blog posts on a certain topic? For an &amp;ldquo;A Happy PhD&amp;rdquo; podcast? In this post, I detail step-by-step an easy way of using AI to get information and advice tailored to your questions, about the blog&amp;rsquo;s very topics and contents.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tiny idea: Feedback options, not checkpoints</title>

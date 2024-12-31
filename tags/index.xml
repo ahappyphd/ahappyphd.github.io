@@ -6,10 +6,64 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 10:58:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:17:34 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI</title>
+      <link>https://ahappyphd.org/tags/ai/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://ahappyphd.org/tags/blog/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://ahappyphd.org/tags/meta/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practice</title>
+      <link>https://ahappyphd.org/tags/practice/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ahappyphd.org/tags/research/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiny</title>
+      <link>https://ahappyphd.org/tags/tiny/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/tiny/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Communication</title>
@@ -35,15 +89,6 @@
       <pubDate>Thu, 11 Jul 2024 10:58:01 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://ahappyphd.org/tags/research/</link>
-      <pubDate>Thu, 11 Jul 2024 10:58:01 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/research/</guid>
       <description></description>
     </item>
     
@@ -152,24 +197,6 @@
       <pubDate>Tue, 12 Mar 2024 11:20:36 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/values/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practice</title>
-      <link>https://ahappyphd.org/tags/practice/</link>
-      <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/practice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiny</title>
-      <link>https://ahappyphd.org/tags/tiny/</link>
-      <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/tiny/</guid>
       <description></description>
     </item>
     
@@ -1079,24 +1106,6 @@
       <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
       
       <guid>https://ahappyphd.org/tags/a-happy-phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://ahappyphd.org/tags/blog/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta</title>
-      <link>https://ahappyphd.org/tags/meta/</link>
-      <pubDate>Sat, 24 Oct 2020 17:24:44 +0300</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/meta/</guid>
       <description></description>
     </item>
     
