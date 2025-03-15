@@ -6,10 +6,64 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2025 17:12:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 08:43:50 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Burnout</title>
+      <link>https://ahappyphd.org/tags/burnout/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/burnout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropout</title>
+      <link>https://ahappyphd.org/tags/dropout/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/dropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impostor syndrome</title>
+      <link>https://ahappyphd.org/tags/impostor-syndrome/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/impostor-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-efficacy</title>
+      <link>https://ahappyphd.org/tags/self-efficacy/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/self-efficacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://ahappyphd.org/tags/supervision/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wellbeing</title>
+      <link>https://ahappyphd.org/tags/wellbeing/</link>
+      <pubDate>Sat, 15 Mar 2025 08:43:50 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/wellbeing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges</title>
@@ -89,15 +143,6 @@
       <pubDate>Thu, 23 Jan 2025 17:12:17 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/timeblocking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wellbeing</title>
-      <link>https://ahappyphd.org/tags/wellbeing/</link>
-      <pubDate>Thu, 23 Jan 2025 17:12:17 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/wellbeing/</guid>
       <description></description>
     </item>
     
@@ -413,15 +458,6 @@
       <pubDate>Tue, 28 Mar 2023 08:15:13 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/appropriation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Burnout</title>
-      <link>https://ahappyphd.org/tags/burnout/</link>
-      <pubDate>Tue, 28 Mar 2023 08:15:13 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/burnout/</guid>
       <description></description>
     </item>
     
@@ -795,15 +831,6 @@
     </item>
     
     <item>
-      <title>Dropout</title>
-      <link>https://ahappyphd.org/tags/dropout/</link>
-      <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/dropout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Suicide</title>
       <link>https://ahappyphd.org/tags/suicide/</link>
       <pubDate>Fri, 24 Sep 2021 13:44:49 +0200</pubDate>
@@ -890,15 +917,6 @@
       <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>https://ahappyphd.org/tags/supervision/</link>
-      <pubDate>Wed, 02 Jun 2021 09:35:04 +0200</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/supervision/</guid>
       <description></description>
     </item>
     
@@ -1511,15 +1529,6 @@
       <pubDate>Sat, 27 Apr 2019 09:00:00 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/ask-me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impostor syndrome</title>
-      <link>https://ahappyphd.org/tags/impostor-syndrome/</link>
-      <pubDate>Tue, 23 Apr 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/impostor-syndrome/</guid>
       <description></description>
     </item>
     

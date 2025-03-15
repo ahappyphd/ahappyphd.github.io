@@ -4,35 +4,98 @@
   
   <url>
     <loc>https://ahappyphd.org/authors/luis-p.-prieto/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/authors/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/blog/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/burnout/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ahappyphd.org/categories/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/dropout/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/impostor-syndrome/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/impostors-supervisors/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/posts/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/self-efficacy/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/supervision/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahappyphd.org/tags/wellbeing/</loc>
+    <lastmod>2025-03-15T08:43:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,13 +116,6 @@
   
   <url>
     <loc>https://ahappyphd.org/posts/restart-phd-habit/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/posts/</loc>
     <lastmod>2025-01-23T17:12:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,13 +150,6 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/tags/task/</loc>
     <lastmod>2025-01-23T17:12:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -116,13 +165,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/timeblocking/</loc>
-    <lastmod>2025-01-23T17:12:17+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/wellbeing/</loc>
     <lastmod>2025-01-23T17:12:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -473,13 +515,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/appropriation/</loc>
-    <lastmod>2023-03-28T08:15:13+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/burnout/</loc>
     <lastmod>2023-03-28T08:15:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -899,13 +934,6 @@
   </url>
   
   <url>
-    <loc>https://ahappyphd.org/tags/dropout/</loc>
-    <lastmod>2021-09-24T13:44:49+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ahappyphd.org/posts/how-many-phd-students/</loc>
     <lastmod>2021-09-24T13:44:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1012,13 +1040,6 @@
   
   <url>
     <loc>https://ahappyphd.org/tags/conference/</loc>
-    <lastmod>2021-06-02T09:35:04+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/supervision/</loc>
     <lastmod>2021-06-02T09:35:04+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1817,13 +1838,6 @@
   
   <url>
     <loc>https://ahappyphd.org/posts/choosing-not-drop-out/</loc>
-    <lastmod>2019-04-23T12:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahappyphd.org/tags/impostor-syndrome/</loc>
     <lastmod>2019-04-23T12:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
