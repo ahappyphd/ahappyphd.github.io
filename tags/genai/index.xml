@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenAI on A Happy PhD</title>
+    <link>https://ahappyphd.org/tags/genai/</link>
+    <description>Recent content in GenAI on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 06:45:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://ahappyphd.org/tags/genai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning for the PhD in the age of GenAI</title>
+      <link>https://ahappyphd.org/posts/learning-ai/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/learning-ai/</guid>
+      <description>&lt;p&gt;Generative artificial intelligence (GenAI) tools like ChatGPT have been hailed as both a revolutionary resource and an apocalypse for education. Among graduate and doctoral students around me—and in my own everyday learning as a researcher—I see both futures playing out. How to use these tools to support learning as a budding researcher, rather than de-skill ourselves? This post reminds us that the doctoral journey is a &lt;em&gt;learning&lt;/em&gt; journey and highlights a key aspect of any learning process, along with different ways we can engage in it. Then, I draw on research-based ideas to outline (tentative) principles for learning effectively with (or without) these AI tools.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tiny Practice and AI Tip -- Create Your Topical &#39;A Happy PhD AI Companion&#39;</title>
+      <link>https://ahappyphd.org/posts/blog-ai-companion/</link>
+      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/blog-ai-companion/</guid>
+      <description>&lt;p&gt;Have you ever wished for advice from this blog, tailored to your specific questions or situation? For getting &lt;a href=&#34;https://en.wikipedia.org/wiki/TL;DR&#34;&gt;a tl;dr&lt;/a&gt; of our blog posts on a certain topic? For an &amp;ldquo;A Happy PhD&amp;rdquo; podcast? In this post, I detail step-by-step an easy way of using AI to get information and advice tailored to your questions, about the blog&amp;rsquo;s very topics and contents.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT&#39;s doctoral productivity advice... and four ideas the algorithm will (probably) not give you</title>
+      <link>https://ahappyphd.org/posts/chatgpt-productivity/</link>
+      <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/chatgpt-productivity/</guid>
+      <description>&lt;p&gt;We know that &lt;a href=&#34;https://ahappyphd.org/posts/progress-loop/&#34;&gt;making progress&lt;/a&gt; is a critical motivational factor in finishing a PhD &lt;em&gt;and&lt;/em&gt; maintaining good mental health while we do it. In turn, our &lt;a href=&#34;https://ahappyphd.org/tags/productivity/&#34;&gt;productivity&lt;/a&gt; plays a big role in whether we make progress on our dissertation or not. As the first post in a series on doctoral productivity, I could not help but fall into one of the &lt;em&gt;thèmes du jour&lt;/em&gt;: whether ChatGPT and similar artificial intelligence (AI) tools can write a good piece about this topic. In this post, I go over a couple of iterations of (pretty good) computationally-generated advice, and finally give you a few ideas that I think are overlooked by the algorithm.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

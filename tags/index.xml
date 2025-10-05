@@ -6,10 +6,64 @@
     <description>Recent content in Tags on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 10:50:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 06:45:25 +0200</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI</title>
+      <link>https://ahappyphd.org/tags/ai/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://ahappyphd.org/tags/chatgpt/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creativity</title>
+      <link>https://ahappyphd.org/tags/creativity/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenAI</title>
+      <link>https://ahappyphd.org/tags/genai/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/genai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://ahappyphd.org/tags/learning/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedagogy</title>
+      <link>https://ahappyphd.org/tags/pedagogy/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/tags/pedagogy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Career</title>
@@ -264,15 +318,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://ahappyphd.org/tags/ai/</link>
-      <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blog</title>
       <link>https://ahappyphd.org/tags/blog/</link>
       <pubDate>Tue, 31 Dec 2024 09:17:34 +0100</pubDate>
@@ -404,15 +449,6 @@
       <pubDate>Wed, 06 Mar 2024 10:13:12 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/to-do/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>https://ahappyphd.org/tags/chatgpt/</link>
-      <pubDate>Wed, 20 Dec 2023 10:21:11 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/chatgpt/</guid>
       <description></description>
     </item>
     
@@ -593,15 +629,6 @@
       <pubDate>Tue, 28 Mar 2023 08:15:13 +0200</pubDate>
       
       <guid>https://ahappyphd.org/tags/timeboxing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creativity</title>
-      <link>https://ahappyphd.org/tags/creativity/</link>
-      <pubDate>Thu, 29 Dec 2022 16:45:22 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/creativity/</guid>
       <description></description>
     </item>
     
@@ -809,15 +836,6 @@
       <pubDate>Tue, 17 May 2022 07:59:00 +0100</pubDate>
       
       <guid>https://ahappyphd.org/tags/toolkit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>https://ahappyphd.org/tags/learning/</link>
-      <pubDate>Sat, 29 Jan 2022 12:13:04 +0100</pubDate>
-      
-      <guid>https://ahappyphd.org/tags/learning/</guid>
       <description></description>
     </item>
     

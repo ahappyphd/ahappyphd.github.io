@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedagogy on A Happy PhD</title>
+    <link>https://ahappyphd.org/tags/pedagogy/</link>
+    <description>Recent content in Pedagogy on A Happy PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 06:45:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://ahappyphd.org/tags/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning for the PhD in the age of GenAI</title>
+      <link>https://ahappyphd.org/posts/learning-ai/</link>
+      <pubDate>Sun, 05 Oct 2025 06:45:25 +0200</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/learning-ai/</guid>
+      <description>&lt;p&gt;Generative artificial intelligence (GenAI) tools like ChatGPT have been hailed as both a revolutionary resource and an apocalypse for education. Among graduate and doctoral students around me—and in my own everyday learning as a researcher—I see both futures playing out. How to use these tools to support learning as a budding researcher, rather than de-skill ourselves? This post reminds us that the doctoral journey is a &lt;em&gt;learning&lt;/em&gt; journey and highlights a key aspect of any learning process, along with different ways we can engage in it. Then, I draw on research-based ideas to outline (tentative) principles for learning effectively with (or without) these AI tools.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
