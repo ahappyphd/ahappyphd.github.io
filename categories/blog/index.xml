@@ -6,10 +6,19 @@
     <description>Recent content in Blog on A Happy PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 06:45:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ahappyphd.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Mantra for Daily Reviews</title>
+      <link>https://ahappyphd.org/posts/mantra-dailyreview/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://ahappyphd.org/posts/mantra-dailyreview/</guid>
+      <description>&lt;p&gt;Do you check your &lt;a href=&#34;https://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;daily to‑do list&lt;/a&gt; at the end of the day? If not, &lt;a href=&#34;https://ahappyphd.org/posts/to-do-list-overwhelm/&#34;&gt;you probably should&lt;/a&gt;. Yet, this healthy habit can lead to an increasing sense of dissatisfaction and/or shame, as we are prone to plan more tasks than we are realistically able to execute (due to a &lt;a href=&#34;https://en.wikipedia.org/wiki/Planning_fallacy&#34;&gt;very human bias&lt;/a&gt;). Do we have to choose between productive habits and a positive self‑image? This post introduces a &amp;ldquo;mantra question&amp;rdquo; I am using lately to maintain focus during daily reviews.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Learning for the PhD in the age of GenAI</title>
